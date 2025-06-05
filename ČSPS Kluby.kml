@@ -1,0 +1,4924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>ČSPS Kluby</name>
+    <description/>
+    <Style id="icon-1701-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1701-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1701-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1701-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1701-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>ČSPS Kluby</name>
+      <Placemark>
+        <name>Aquatics Prague No1, z.s.</name>
+        <address>Naskové 1335/1, Praha, 15000</address>
+        <description><![CDATA[Telefon: 602665554<br>Email: gabriela@aquaticsprague.cz<br>Web: www.aquaticsprague.cz<br>Adresa: Naskové 1335/1, Praha, 15000]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.02665554E8</value>
+          </Data>
+          <Data name="Email">
+            <value>gabriela@aquaticsprague.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.aquaticsprague.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Naskové 1335/1, Praha, 15000</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Activity Club, z.s.</name>
+        <address>U libeňského pivovaru 1077/13, Praha, 180 00</address>
+        <description><![CDATA[Telefon: 603591017<br>Email: ondrejsimacek@activityclub.cz; michalspurny@activityclub.cz<br>Web: <br>Adresa: U libeňského pivovaru 1077/13, Praha, 180 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.03591017E8</value>
+          </Data>
+          <Data name="Email">
+            <value>ondrejsimacek@activityclub.cz; michalspurny@activityclub.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>U libeňského pivovaru 1077/13, Praha, 180 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ALDAgo TEAM z.s.</name>
+        <address>Zlínská 394, Fryšták, 76316</address>
+        <description><![CDATA[Telefon: <br>Email: aldago@aldagoteam.cz<br>Web: <br>Adresa: Zlínská 394, Fryšták, 76316]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>aldago@aldagoteam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Zlínská 394, Fryšták, 76316</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Asociace sportovních klubů Blansko, z.s.</name>
+        <address>Mlýnská 1297/19, Blansko, 678 01</address>
+        <description><![CDATA[Telefon: <br>Email: plavani.blansko@email.cz<br>Web: <br>Adresa: Mlýnská 1297/19, Blansko, 678 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>plavani.blansko@email.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Mlýnská 1297/19, Blansko, 678 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Akron Sports Club z.s.</name>
+        <address>Urbánkova 866/5, Praha, 14300</address>
+        <description><![CDATA[Telefon: 606638728<br>Email: marek.pichal73@gmail.com<br>Web: <br>Adresa: Urbánkova 866/5, Praha, 14300]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.06638728E8</value>
+          </Data>
+          <Data name="Email">
+            <value>marek.pichal73@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Urbánkova 866/5, Praha, 14300</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>AQUA Poděbrady, z.s.</name>
+        <address>U Bažantnice 1258/17, Poděbrady, 29001</address>
+        <description><![CDATA[Telefon: <br>Email: petra@sri.cz<br>Web: <br>Adresa: U Bažantnice 1258/17, Poděbrady, 29001]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>petra@sri.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>U Bažantnice 1258/17, Poděbrady, 29001</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Aquasport Vysoké Mýto, z. s.</name>
+        <address>Husova 117, Vysoké Mýto, 56601</address>
+        <description><![CDATA[Telefon: 604528545<br>Email: bodie.sraut@seznam.cz<br>Web: <br>Adresa: Husova 117, Vysoké Mýto, 56601]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.04528545E8</value>
+          </Data>
+          <Data name="Email">
+            <value>bodie.sraut@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Husova 117, Vysoké Mýto, 56601</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub AquaViva, z.s.</name>
+        <address>Úvalská 607/8, Karlovy Vary, 36001</address>
+        <description><![CDATA[Telefon: <br>Email: a.viva@email.cz<br>Web: <br>Adresa: Úvalská 607/8, Karlovy Vary, 36001]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>a.viva@email.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Úvalská 607/8, Karlovy Vary, 36001</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Aquamen Prague, z.s.</name>
+        <address>Dukelských hrdinů 696/43, Praha, 17000</address>
+        <description><![CDATA[Telefon: <br>Email: info@aquamen.eu<br>Web: www.aquamen.eu<br>Adresa: Dukelských hrdinů 696/43, Praha, 17000]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>info@aquamen.eu</value>
+          </Data>
+          <Data name="Web">
+            <value>www.aquamen.eu</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Dukelských hrdinů 696/43, Praha, 17000</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Auto Škoda Mladá Boleslav, z.s.</name>
+        <address>U stadionu 1322, Mladá Boleslav, 293 01</address>
+        <description><![CDATA[Telefon: 604854272<br>Email: lenkacib@seznam.cz<br>Web: <br>Adresa: U stadionu 1322, Mladá Boleslav, 293 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.04854272E8</value>
+          </Data>
+          <Data name="Email">
+            <value>lenkacib@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>U stadionu 1322, Mladá Boleslav, 293 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Baby centrum Delfínek, z.s.</name>
+        <address>Alberta Kučery 1197/16, Ostrava, 700 30</address>
+        <description><![CDATA[Telefon: 604556037<br>Email: tomas.lukasik@czechswimming.cz; tomas.lukasik@bcdelfinek.cz<br>Web: <br>Adresa: Alberta Kučery 1197/16, Ostrava, 700 30]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.04556037E8</value>
+          </Data>
+          <Data name="Email">
+            <value>tomas.lukasik@czechswimming.cz; tomas.lukasik@bcdelfinek.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Alberta Kučery 1197/16, Ostrava, 700 30</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Baník Sokolov, z.s.</name>
+        <address>Sportovní 2024, Sokolov, 356 01</address>
+        <description><![CDATA[Telefon: <br>Email: vendulka.maxova@nemocnicesokolov.cz<br>Web: <br>Adresa: Sportovní 2024, Sokolov, 356 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>vendulka.maxova@nemocnicesokolov.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Sportovní 2024, Sokolov, 356 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tělovýchovná jednota Bižuterie, z.s.</name>
+        <address>Pražská 4200/20, Jablonec nad Nisou, 466 02</address>
+        <description><![CDATA[Telefon: 602448986<br>Email: jan.grus@czechswimming.cz<br>Web: <br>Adresa: Pražská 4200/20, Jablonec nad Nisou, 466 02]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.02448986E8</value>
+          </Data>
+          <Data name="Email">
+            <value>jan.grus@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Pražská 4200/20, Jablonec nad Nisou, 466 02</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tělovýchovná jednota Bohemians Praha</name>
+        <address>Izraelská 3160/6, Praha, 10000</address>
+        <description><![CDATA[Telefon: 777852196<br>Email: jan.srb@czechswimming.cz<br>Web: <br>Adresa: Izraelská 3160/6, Praha, 10000]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.77852196E8</value>
+          </Data>
+          <Data name="Email">
+            <value>jan.srb@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Izraelská 3160/6, Praha, 10000</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>PK Chemička Ústí nad Labem z.s.</name>
+        <address>Černá cesta 941/2, Ústí nad Labem, 40001</address>
+        <description><![CDATA[Telefon: <br>Email: chuplavani@seznam.cz<br>Web: <br>Adresa: Černá cesta 941/2, Ústí nad Labem, 40001]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>chuplavani@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Černá cesta 941/2, Ústí nad Labem, 40001</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Cesta životem bez bariér, z.s.</name>
+        <address>Paběnice 75, Paběnice, 28543</address>
+        <description><![CDATA[Telefon: <br>Email: cestazivotembb@seznam.cz<br>Web: <br>Adresa: Paběnice 75, Paběnice, 28543]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>cestazivotembb@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Paběnice 75, Paběnice, 28543</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Klub sportovního plavání "DELFÍN" Břeclav, z.s.]]></name>
+        <address>Slovácká 732, Lednice, 69144</address>
+        <description><![CDATA[Telefon: 777810984<br>Email: kspdelfinbreclav@gmail.com<br>Web: www.delfin-breclav.cz<br>Adresa: Slovácká 732, Lednice, 69144]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.77810984E8</value>
+          </Data>
+          <Data name="Email">
+            <value>kspdelfinbreclav@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value>www.delfin-breclav.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Slovácká 732, Lednice, 69144</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní plavecký klub - Delfín Jičín, z.s.</name>
+        <address>Revoluční 863, Jičín, 506 01</address>
+        <description><![CDATA[Telefon: <br>Email: prostrednik@muzeum-turnov.cz<br>Web: <br>Adresa: Revoluční 863, Jičín, 506 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>prostrednik@muzeum-turnov.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Revoluční 863, Jičín, 506 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Delfín Náchod, z.s.</name>
+        <address>Pražská 178, Náchod, 54701</address>
+        <description><![CDATA[Telefon: <br>Email: predsedaDeNa@gmail.com<br>Web: <br>Adresa: Pražská 178, Náchod, 54701]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>predsedaDeNa@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Pražská 178, Náchod, 54701</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>DELFÍN Praha, z.s.</name>
+        <address>Pod lysinami 483/22, Praha 4, 147 00</address>
+        <description><![CDATA[Telefon: <br>Email: dita@sbsound.cz<br>Web: <br>Adresa: Pod lysinami 483/22, Praha 4, 147 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>dita@sbsound.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Pod lysinami 483/22, Praha 4, 147 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký oddíl DELFÍN Pelhřimov z.s.</name>
+        <address>Nádražní 1536, Pelhřimov, 393 01</address>
+        <description><![CDATA[Telefon: 602481441<br>Email: ps.delfin@tiscali.cz<br>Web: <br>Adresa: Nádražní 1536, Pelhřimov, 393 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.02481441E8</value>
+          </Data>
+          <Data name="Email">
+            <value>ps.delfin@tiscali.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Nádražní 1536, Pelhřimov, 393 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tělovýchovná jednota Dukla Praha, z.s.</name>
+        <address>Na Julisce 28/2, Praha, 160 00</address>
+        <description><![CDATA[Telefon: 720659401<br>Email: jakub.svoboda@czechswimming.cz<br>Web: <br>Adresa: Na Julisce 28/2, Praha, 160 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.20659401E8</value>
+          </Data>
+          <Data name="Email">
+            <value>jakub.svoboda@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Na Julisce 28/2, Praha, 160 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Elitavers - Sportovní akademie Jihlava, z.s.</name>
+        <address>Poláčkova 5107/10, Jihlava, 58601</address>
+        <description><![CDATA[Telefon: <br>Email: libor.kuchyna@czechswimming.cz<br>Web: <br>Adresa: Poláčkova 5107/10, Jihlava, 58601]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>libor.kuchyna@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Poláčkova 5107/10, Jihlava, 58601</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavání ELMA Kladno z.s.</name>
+        <address>U výtopny 1975, Kladno, 27201</address>
+        <description><![CDATA[Telefon: <br>Email: mates.posmourny@seznam.cz<br>Web: <br>Adresa: U výtopny 1975, Kladno, 27201]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>mates.posmourny@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>U výtopny 1975, Kladno, 27201</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Elab team, z.s.</name>
+        <address>Pobřežní 249/46, Praha, 18600</address>
+        <description><![CDATA[Telefon: 720989440<br>Email: elt@czechswimming.cz<br>Web: <br>Adresa: Pobřežní 249/46, Praha, 18600]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.2098944E8</value>
+          </Data>
+          <Data name="Email">
+            <value>elt@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Pobřežní 249/46, Praha, 18600</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecké středisko Zéva, z.s.</name>
+        <address>Uhelná 868/3, Hradec Králové, 500 03</address>
+        <description><![CDATA[Telefon: <br>Email: marekovar0@gmail.com<br>Web: <br>Adresa: Uhelná 868/3, Hradec Králové, 500 03]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>marekovar0@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Uhelná 868/3, Hradec Králové, 500 03</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Elite swim, z.s.</name>
+        <address>Slovácká 1717, Uherské Hradiště, 68601</address>
+        <description><![CDATA[Telefon: <br>Email: info@eliteswim.cz<br>Web: <br>Adresa: Slovácká 1717, Uherské Hradiště, 68601]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>info@eliteswim.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Slovácká 1717, Uherské Hradiště, 68601</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>VSK ČVUT Praha z.s.</name>
+        <address>Pod Juliskou 1805/4, Praha, 160 00</address>
+        <description><![CDATA[Telefon: <br>Email: antonin.ludvik@cvut.cz<br>Web: <br>Adresa: Pod Juliskou 1805/4, Praha, 160 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>antonin.ludvik@cvut.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Pod Juliskou 1805/4, Praha, 160 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tělovýchovná jednota Fezko Strakonice, z.s.</name>
+        <address>Pod Hradem 128, Strakonice, 386 01</address>
+        <description><![CDATA[Telefon: <br>Email: jungradek@seznam.cz<br>Web: <br>Adresa: Pod Hradem 128, Strakonice, 386 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>jungradek@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Pod Hradem 128, Strakonice, 386 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>FAKULTNÍ KLUB SPORTOVNÍHO PLAVÁNÍ BRNO, z.s.</name>
+        <address>Heleny Malířové 161/8, Brno, 638 00</address>
+        <description><![CDATA[Telefon: <br>Email: josef.kotlik@czechswimming.cz<br>Web: <br>Adresa: Heleny Malířové 161/8, Brno, 638 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>josef.kotlik@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Heleny Malířové 161/8, Brno, 638 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Fakultní klub Brno, z.s.</name>
+        <address>Brněnská 526/50, 69301 Hustopeče</address>
+        <description><![CDATA[Telefon: <br>Email: jan@popnet.cz<br>Web: <br>Adresa: Brněnská 526/50, 69301 Hustopeče]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>jan@popnet.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Brněnská 526/50, 69301 Hustopeče</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>FIDES Brno, z.s.</name>
+        <address>Dornych 129/57, Brno, 617 00</address>
+        <description><![CDATA[Telefon: <br>Email: petr.mihola@seznam.cz<br>Web: www.otuzilci-brno.cz<br>Adresa: Dornych 129/57, Brno, 617 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>petr.mihola@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.otuzilci-brno.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Dornych 129/57, Brno, 617 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>DZP Haná Prostějov, z.s.</name>
+        <address>Vrahovická 2527/5, Prostějov, 79601</address>
+        <description><![CDATA[Telefon: <br>Email: dzphana@gmail.com<br>Web: <br>Adresa: Vrahovická 2527/5, Prostějov, 79601]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>dzphana@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Vrahovická 2527/5, Prostějov, 79601</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>I. plavecký klub otužilců Praha, z.s.</name>
+        <address>U kempinku 1801/2, Praha, 147 00</address>
+        <description><![CDATA[Telefon: 606754905<br>Email: tomas-prokop@seznam.cz<br>Web: <br>Adresa: U kempinku 1801/2, Praha, 147 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.06754905E8</value>
+          </Data>
+          <Data name="Email">
+            <value>tomas-prokop@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>U kempinku 1801/2, Praha, 147 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Jihlavský plavecký klub , z.s.</name>
+        <address>Evžena Rošického 2684/6, Jihlava, 58601</address>
+        <description><![CDATA[Telefon: <br>Email: jpk@czechswimming.cz<br>Web: <br>Adresa: Evžena Rošického 2684/6, Jihlava, 58601]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>jpk@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Evžena Rošického 2684/6, Jihlava, 58601</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní klub Jiskra Domažlice, z. s.</name>
+        <address>Fügnerova 647, Domažlice, 34401</address>
+        <description><![CDATA[Telefon: <br>Email: jido@czechswimming.cz<br>Web: <br>Adresa: Fügnerova 647, Domažlice, 34401]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>jido@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Fügnerova 647, Domažlice, 34401</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub KARP z. s.</name>
+        <address>Rog. Houdka 2223, Kladno, 27201</address>
+        <description><![CDATA[Telefon: <br>Email: karp-slany@seznam.cz<br>Web: <br>Adresa: Rog. Houdka 2223, Kladno, 27201]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>karp-slany@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Rog. Houdka 2223, Kladno, 27201</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tělovýchovná jednota KOH-I-NOOR České Budějovice, z.s.</name>
+        <address>Skuherského 1485/12, České Budějovice, 370 01</address>
+        <description><![CDATA[Telefon: <br>Email: eva.smausova@czechswimming.cz<br>Web: <br>Adresa: Skuherského 1485/12, České Budějovice, 370 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>eva.smausova@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Skuherského 1485/12, České Budějovice, 370 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kome Klub Kraslice, z. s.</name>
+        <address>U nemocnice 1979, Kraslice, 35801</address>
+        <description><![CDATA[Telefon: <br>Email: komeklub@gmail.com<br>Web: <br>Adresa: U nemocnice 1979, Kraslice, 35801]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>komeklub@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>U nemocnice 1979, Kraslice, 35801</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Klub ledních medvědů Třebíč z.s.</name>
+        <address>Čeloudova 1117/56, Třebíč, 67401</address>
+        <description><![CDATA[Telefon: <br>Email: zdezdemik@seznam.cz<br>Web: <br>Adresa: Čeloudova 1117/56, Třebíč, 67401]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>zdezdemik@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Čeloudova 1117/56, Třebíč, 67401</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Klub KL Sport Teplice z.s.</name>
+        <address>Višňový sad 350, Krupka, 41742</address>
+        <description><![CDATA[Telefon: <br>Email: klub.klste@email.cz<br>Web: <br>Adresa: Višňový sad 350, Krupka, 41742]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>klub.klste@email.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Višňový sad 350, Krupka, 41742</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>KPK KLADNO z.s.</name>
+        <address>Havířská 1651, Kladno, 27201</address>
+        <description><![CDATA[Telefon: <br>Email: info@iceswimming.cz<br>Web: <br>Adresa: Havířská 1651, Kladno, 27201]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>info@iceswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Havířská 1651, Kladno, 27201</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Klub plavců mělnických, z.s.</name>
+        <address>Klášterní 648, Mělník, 276 01</address>
+        <description><![CDATA[Telefon: 605148437<br>Email: kpmel@kpmel.cz<br>Web: kpmel.cz<br>Adresa: Klášterní 648, Mělník, 276 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.05148437E8</value>
+          </Data>
+          <Data name="Email">
+            <value>kpmel@kpmel.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>kpmel.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Klášterní 648, Mělník, 276 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Klub plaveckých sportů Opava, z.s.</name>
+        <address>Kotršova 172/25, Opava, 747 07</address>
+        <description><![CDATA[Telefon: <br>Email: kpsop@seznam.cz<br>Web: <br>Adresa: Kotršova 172/25, Opava, 747 07]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>kpsop@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Kotršova 172/25, Opava, 747 07</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Klub plaveckých sportů Ostrava, z.s.</name>
+        <address>Gen. Sochora 1378/10, Ostrava, 708 00</address>
+        <description><![CDATA[Telefon: 733620280<br>Email: jan.pala@kpsostrava.cz<br>Web: www.kpsostrava.cz<br>Adresa: Gen. Sochora 1378/10, Ostrava, 708 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.3362028E8</value>
+          </Data>
+          <Data name="Email">
+            <value>jan.pala@kpsostrava.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.kpsostrava.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Gen. Sochora 1378/10, Ostrava, 708 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Klub plaveckých sportů Rakovník, z.s.</name>
+        <address>nábř. Dr. Beneše 2602, Rakovník, 269 01</address>
+        <description><![CDATA[Telefon: <br>Email: michal.beranek@czechswimming.cz<br>Web: <br>Adresa: nábř. Dr. Beneše 2602, Rakovník, 269 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>michal.beranek@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>nábř. Dr. Beneše 2602, Rakovník, 269 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Klub plaveckých sportů Vyškov, z.s.</name>
+        <address>Sportovní 752/5, Vyškov, 68201</address>
+        <description><![CDATA[Telefon: <br>Email: kpsvy@centrum.cz<br>Web: <br>Adresa: Sportovní 752/5, Vyškov, 68201]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>kpsvy@centrum.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Sportovní 752/5, Vyškov, 68201</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Krajský svaz ČSPS - Královéhradecký kraj</name>
+        <address>Na Lukách 432, Trutnov, 54101</address>
+        <description><![CDATA[Telefon: <br>Email: tomas.bren@czechswimming.cz<br>Web: <br>Adresa: Na Lukách 432, Trutnov, 54101]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>tomas.bren@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Na Lukách 432, Trutnov, 54101</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Krajský svaz ČSPS - Jihočeský kraj</name>
+        <address>Skuherského 1478/14, České Budějovice, 37001</address>
+        <description><![CDATA[Telefon: <br>Email: eva.smausova@czechswimming.cz<br>Web: <br>Adresa: Skuherského 1478/14, České Budějovice, 37001]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>eva.smausova@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Skuherského 1478/14, České Budějovice, 37001</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Krajský svaz ČSPS - Jihomoravský kraj</name>
+        <address>Otmarov 23, 66457</address>
+        <description><![CDATA[Telefon: <br>Email: petr.vodak@czechswimming.cz<br>Web: <br>Adresa: Otmarov 23, 66457]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>petr.vodak@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Otmarov 23, 66457</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Krajský svaz ČSPS - Liberecký kraj</name>
+        <address>Mrštíkova 399/2a, Liberec, 46007</address>
+        <description><![CDATA[Telefon: <br>Email: petr.korinek@czechswimming.cz<br>Web: <br>Adresa: Mrštíkova 399/2a, Liberec, 46007]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>petr.korinek@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Mrštíkova 399/2a, Liberec, 46007</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Krajský svaz ČSPS - Moravskoslezský kraj</name>
+        <address>Sokolovská 394/1, Kopřivnice, 74221</address>
+        <description><![CDATA[Telefon: <br>Email: mojmir.axman@czechswimming.cz<br>Web: <br>Adresa: Sokolovská 394/1, Kopřivnice, 74221]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>mojmir.axman@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Sokolovská 394/1, Kopřivnice, 74221</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Klub sportovních otužilců Plzeň, z.s.</name>
+        <address>Tachovská 1372/39, Plzeň, 323 25</address>
+        <description><![CDATA[Telefon: <br>Email: pavel.vituj@seznam.cz<br>Web: <br>Adresa: Tachovská 1372/39, Plzeň, 323 25]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>pavel.vituj@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Tachovská 1372/39, Plzeň, 323 25</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Krajský svaz ČSPS - Olomoucký kraj</name>
+        <address>Jílová 535/14, Olomouc, 77900</address>
+        <description><![CDATA[Telefon: <br>Email: dusan.viktorjenik@czechswimming.cz<br>Web: <br>Adresa: Jílová 535/14, Olomouc, 77900]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>dusan.viktorjenik@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Jílová 535/14, Olomouc, 77900</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Krajský svaz ČSPS - Plzeňský kraj</name>
+        <address>Osek 421, 33821</address>
+        <description><![CDATA[Telefon: <br>Email: jan.bazil@czechswimming.cz<br>Web: <br>Adresa: Osek 421, 33821]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>jan.bazil@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Osek 421, 33821</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ LARS Kladno z.s.</name>
+        <address>Sportovců 816, Kladno, 272 04</address>
+        <description><![CDATA[Telefon: <br>Email: peta.landova@seznam.cz<br>Web: <br>Adresa: Sportovců 816, Kladno, 272 04]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>peta.landova@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Sportovců 816, Kladno, 272 04</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Klub sportovního plavání Pardubice, z.s.</name>
+        <address>Sladkovského 669, Pardubice, 530 02</address>
+        <description><![CDATA[Telefon: <br>Email: ksppce@seznam.cz<br>Web: <br>Adresa: Sladkovského 669, Pardubice, 530 02]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>ksppce@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Sladkovského 669, Pardubice, 530 02</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Krajský svaz ČSPS - Pardubický kraj</name>
+        <address>K Vinici 1901, Pardubice, 53002</address>
+        <description><![CDATA[Telefon: <br>Email: brigita.roztocilova@czechswimming.cz<br>Web: <br>Adresa: K Vinici 1901, Pardubice, 53002]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>brigita.roztocilova@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>K Vinici 1901, Pardubice, 53002</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Pražský svaz Českého svazu plaveckých sportů</name>
+        <address>Hanusova 347/16, Praha, 14000</address>
+        <description><![CDATA[Telefon: <br>Email: jan.srb@czechswimming.cz<br>Web: <br>Adresa: Hanusova 347/16, Praha, 14000]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>jan.srb@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Hanusova 347/16, Praha, 14000</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SK Slavia Praha  - skoky do vody z.s.</name>
+        <address>Vladivostocká 1460/10, Praha, 10000</address>
+        <description><![CDATA[Telefon: <br>Email: hana.novotna@czechswimming.cz<br>Web: <br>Adresa: Vladivostocká 1460/10, Praha, 10000]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>hana.novotna@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Vladivostocká 1460/10, Praha, 10000</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Krajský svaz ČSPS - Středočeský kraj</name>
+        <address>Tři Dvory 365, 28002</address>
+        <description><![CDATA[Telefon: <br>Email: miloslav.lhotka@czechswimming.cz<br>Web: <br>Adresa: Tři Dvory 365, 28002]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>miloslav.lhotka@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Tři Dvory 365, 28002</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Krajský svaz ČSPS - Ústecký kraj</name>
+        <address>Jiráskova 413, Litvínov, 43601</address>
+        <description><![CDATA[Telefon: <br>Email: gabriela.soukupova@czechswimming.cz<br>Web: <br>Adresa: Jiráskova 413, Litvínov, 43601]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>gabriela.soukupova@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Jiráskova 413, Litvínov, 43601</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Krajský svaz ČSPS - Kraj Vysočina</name>
+        <address>Helenínská 2873/12, Jihlava, 58601</address>
+        <description><![CDATA[Telefon: <br>Email: petr.svacinka@czechswimming.cz<br>Web: <br>Adresa: Helenínská 2873/12, Jihlava, 58601]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>petr.svacinka@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Helenínská 2873/12, Jihlava, 58601</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Krajský svaz ČSPS - Zlínský kraj</name>
+        <address>Na Uličce 1362, Otrokovice, 76502</address>
+        <description><![CDATA[Telefon: <br>Email: zdenek.oharek@czechswimming.cz<br>Web: <br>Adresa: Na Uličce 1362, Otrokovice, 76502]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>zdenek.oharek@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Na Uličce 1362, Otrokovice, 76502</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Klub vodních sportů Pardubice, z.s.</name>
+        <address>Jiráskova 2664, Pardubice, 53002</address>
+        <description><![CDATA[Telefon: <br>Email: kvs.pa@seznam.cz<br>Web: <br>Adresa: Jiráskova 2664, Pardubice, 53002]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>kvs.pa@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Jiráskova 2664, Pardubice, 53002</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Klub vodních sportů Plzeň</name>
+        <address>Hřímalého 567/5, Plzeň, 301 00</address>
+        <description><![CDATA[Telefon: <br>Email: lukasvondra@seznam.cz<br>Web: <br>Adresa: Hřímalého 567/5, Plzeň, 301 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>lukasvondra@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Hřímalého 567/5, Plzeň, 301 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Kajman Dobruška, z.s.</name>
+        <address>Bačetín 122, 51801</address>
+        <description><![CDATA[Telefon: <br>Email: jddolecek@seznam.cz<br>Web: <br>Adresa: Bačetín 122, 51801]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>jddolecek@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Bačetín 122, 51801</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kosatky Karviná-oddíl plavání, z.s.</name>
+        <address>Leonovova 1797/1, Karviná, 733 01</address>
+        <description><![CDATA[Telefon: <br>Email: kosatky@kosatkykarvina.cz<br>Web: <br>Adresa: Leonovova 1797/1, Karviná, 733 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>kosatky@kosatkykarvina.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Leonovova 1797/1, Karviná, 733 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Klub otužilců Tábor , z.s.</name>
+        <address>Nasavrky 39, NASAVRKY, 391 31</address>
+        <description><![CDATA[Telefon: <br>Email: trieb.petr@gmail.com<br>Web: <br>Adresa: Nasavrky 39, NASAVRKY, 391 31]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>trieb.petr@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Nasavrky 39, NASAVRKY, 391 31</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Klub plaveckých sportů policie Kometa Brno z. s.</name>
+        <address>Sportovní 486/4, Brno, 602 00</address>
+        <description><![CDATA[Telefon: 541247731<br>Email: plavani@kometaplavani.cz<br>Web: www.kometaplavani.cz<br>Adresa: Sportovní 486/4, Brno, 602 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>5.41247731E8</value>
+          </Data>
+          <Data name="Email">
+            <value>plavani@kometaplavani.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.kometaplavani.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Sportovní 486/4, Brno, 602 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní klub Kopřivnice, z.s.</name>
+        <address>Husova 1340/9, Kopřivnice, 74221</address>
+        <description><![CDATA[Telefon: 731735458<br>Email: skkopr@seznam.cz<br>Web: www.skkoprivnice.cz<br>Adresa: Husova 1340/9, Kopřivnice, 74221]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.31735458E8</value>
+          </Data>
+          <Data name="Email">
+            <value>skkopr@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.skkoprivnice.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Husova 1340/9, Kopřivnice, 74221</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>České Budějovice z.s - spolek pro volnočacové aktivity, rehabilitaci a sport bez bariér</name>
+        <address>Kubatova 1835/5, České Budějovice, 37004</address>
+        <description><![CDATA[Telefon: <br>Email: janousek@k-cb.cz<br>Web: <br>Adresa: Kubatova 1835/5, České Budějovice, 37004]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>janousek@k-cb.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Kubatova 1835/5, České Budějovice, 37004</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Lašský sportovní klub Frýdek-Místek, z.s.</name>
+        <address>Josefa Suka 1840, Frýdek-Místek, 738 01</address>
+        <description><![CDATA[Telefon: <br>Email: gazda.pavel@seznam.cz<br>Web: <br>Adresa: Josefa Suka 1840, Frýdek-Místek, 738 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>gazda.pavel@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Josefa Suka 1840, Frýdek-Místek, 738 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký oddíl Laguna Třebíč z.s.</name>
+        <address>Mládežnická 1096, Třebíč, 674 01</address>
+        <description><![CDATA[Telefon: <br>Email: radkabartova19@gmail.com<br>Web: <br>Adresa: Mládežnická 1096, Třebíč, 674 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>radkabartova19@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Mládežnická 1096, Třebíč, 674 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>LACHMÁNEK z.s.</name>
+        <address>K lesu 345/14, Praha 4, 14200</address>
+        <description><![CDATA[Telefon: 776291156<br>Email: ondra@lachmanek.cz<br>Web: www.lachmanek.cz<br>Adresa: K lesu 345/14, Praha 4, 14200]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.76291156E8</value>
+          </Data>
+          <Data name="Email">
+            <value>ondra@lachmanek.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.lachmanek.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>K lesu 345/14, Praha 4, 14200</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ledoborci Písek, z.s.</name>
+        <address>Husovo nám. 579/1, Písek, 39701</address>
+        <description><![CDATA[Telefon: 777606631<br>Email: info@ledoborcipisek.cz<br>Web: https://www.ledoborcipisek.cz<br>Adresa: Husovo nám. 579/1, Písek, 39701]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.77606631E8</value>
+          </Data>
+          <Data name="Email">
+            <value>info@ledoborcipisek.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>https://www.ledoborcipisek.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Husovo nám. 579/1, Písek, 39701</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>edu solution z.s.</name>
+        <address>Soukenická 1849, Chotěboř, 58301</address>
+        <description><![CDATA[Telefon: <br>Email: edusolutionzs@gmail.com<br>Web: <br>Adresa: Soukenická 1849, Chotěboř, 58301]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>edusolutionzs@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Soukenická 1849, Chotěboř, 58301</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ LOKOMOTIVA BEROUN z. s.</name>
+        <address>Tyršova 85, Beroun, 266 01</address>
+        <description><![CDATA[Telefon: <br>Email: plavani.pokorna@gmail.com<br>Web: <br>Adresa: Tyršova 85, Beroun, 266 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>plavani.pokorna@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Tyršova 85, Beroun, 266 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Lokomotiva Nymburk z.s.</name>
+        <address>Boleslavská třída 319/11, Nymburk, 288 02</address>
+        <description><![CDATA[Telefon: <br>Email: irehakova1@seznam.cz<br>Web: <br>Adresa: Boleslavská třída 319/11, Nymburk, 288 02]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>irehakova1@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Boleslavská třída 319/11, Nymburk, 288 02</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ LOKOMOTIVA TRUTNOV, z.s.</name>
+        <address>Národní 199, Trutnov, 541 01</address>
+        <description><![CDATA[Telefon: <br>Email: bren@lokotrutnov.cz<br>Web: <br>Adresa: Národní 199, Trutnov, 541 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>bren@lokotrutnov.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Národní 199, Trutnov, 541 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Lokomotiva Česká Lípa, z.s.</name>
+        <address>Mánesova 1580/17, Česká Lípa, 470 01</address>
+        <description><![CDATA[Telefon: <br>Email: safra.b@seznam.cz; tjloko@loko-cl.cz<br>Web: <br>Adresa: Mánesova 1580/17, Česká Lípa, 470 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>safra.b@seznam.cz; tjloko@loko-cl.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Mánesova 1580/17, Česká Lípa, 470 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tělovýchovná jednota Lokomotiva,z.s. Česká Třebová</name>
+        <address>Husova 22, Česká Třebová, 560 02</address>
+        <description><![CDATA[Telefon: <br>Email: petrahajkovic@seznam.cz<br>Web: <br>Adresa: Husova 22, Česká Třebová, 560 02]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>petrahajkovic@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Husova 22, Česká Třebová, 560 02</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>MCT CZ z.s.</name>
+        <address>Nový Spálenec, 344 01</address>
+        <description><![CDATA[Telefon: <br>Email: mct.cz@seznam.cz<br>Web: <br>Adresa: Nový Spálenec, 344 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>mct.cz@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Nový Spálenec, 344 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Masters plavecký klub Zábřeh, z.s.</name>
+        <address>Na Vyhlídce 1251/29, Zábřeh, 78901</address>
+        <description><![CDATA[Telefon: <br>Email: petr.horvat@tiscali.cz<br>Web: <br>Adresa: Na Vyhlídce 1251/29, Zábřeh, 78901]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>petr.horvat@tiscali.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Na Vyhlídce 1251/29, Zábřeh, 78901</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Městský plavecký klub Ústí nad Labem z.s.</name>
+        <address>Klíšská 892/90a, Ústí nad Labem, 400 01</address>
+        <description><![CDATA[Telefon: <br>Email: mpku@seznam.cz<br>Web: <br>Adresa: Klíšská 892/90a, Ústí nad Labem, 400 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>mpku@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Klíšská 892/90a, Ústí nad Labem, 400 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>MTM ACADEMY, z.s.</name>
+        <address>Janovského 195/28, Praha, 17000</address>
+        <description><![CDATA[Telefon: <br>Email: plavani@mtmacademy.cz<br>Web: <br>Adresa: Janovského 195/28, Praha, 17000]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>plavani@mtmacademy.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Janovského 195/28, Praha, 17000</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní klub Medúza Kladno,z.s.</name>
+        <address>Sportovců 818, Kladno, 27204</address>
+        <description><![CDATA[Telefon: <br>Email: meduzasynchro@gmail.com<br>Web: <br>Adresa: Sportovců 818, Kladno, 27204]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>meduzasynchro@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Sportovců 818, Kladno, 27204</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Klub plaveckých sportů Mládí Orlová, z. s.</name>
+        <address>V.Martínka 712 712, Orlová, 735 14</address>
+        <description><![CDATA[Telefon: <br>Email: viktor.pavelka@seznam.cz<br>Web: <br>Adresa: V.Martínka 712 712, Orlová, 735 14]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>viktor.pavelka@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>V.Martínka 712 712, Orlová, 735 14</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní klub Motorlet Praha, spolek</name>
+        <address>Radlická 298/105, Praha, 150 00</address>
+        <description><![CDATA[Telefon: <br>Email: vasilis.teodoridis@skmop.cz<br>Web: https://www.skmop.cz/<br>Adresa: Radlická 298/105, Praha, 150 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>vasilis.teodoridis@skmop.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>https://www.skmop.cz/</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Radlická 298/105, Praha, 150 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Městský sportovní klub Brno, z.s.</name>
+        <address>Křídlovická 911/34, Brno, 603 00</address>
+        <description><![CDATA[Telefon: 605255094<br>Email: hajek@starezsport.cz<br>Web: <br>Adresa: Křídlovická 911/34, Brno, 603 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.05255094E8</value>
+          </Data>
+          <Data name="Email">
+            <value>hajek@starezsport.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Křídlovická 911/34, Brno, 603 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Neratovický Plavecký Klub, z.s.</name>
+        <address>Mládežnická 435/13, Neratovice, 277 11</address>
+        <description><![CDATA[Telefon: <br>Email: vesely.plavani@email.cz<br>Web: <br>Adresa: Mládežnická 435/13, Neratovice, 277 11]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>vesely.plavani@email.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Mládežnická 435/13, Neratovice, 277 11</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>NEPTUN MASTERS - plavecký klub, z.s.</name>
+        <address>Mezivrší 213/1, Praha 4, 147 00</address>
+        <description><![CDATA[Telefon: <br>Email: info@neptunmasters.com<br>Web: <br>Adresa: Mezivrší 213/1, Praha 4, 147 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>info@neptunmasters.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Mezivrší 213/1, Praha 4, 147 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní klub NEPTUN, z.s.</name>
+        <address>Hloubětínská 80/32, Praha, 198 00</address>
+        <description><![CDATA[Telefon: 777556515<br>Email: synchroneptun@gmail.com<br>Web: <br>Adresa: Hloubětínská 80/32, Praha, 198 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.77556515E8</value>
+          </Data>
+          <Data name="Email">
+            <value>synchroneptun@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Hloubětínská 80/32, Praha, 198 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Otužilci "Promrzlé pyjavice" České Budějovice]]></name>
+        <address>Zachariášova 766/1, České Budějovice, 370 04</address>
+        <description><![CDATA[Telefon: <br>Email: marketatulen@seznam.cz<br>Web: <br>Adresa: Zachariášova 766/1, České Budějovice, 370 04]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>marketatulen@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Zachariášova 766/1, České Budějovice, 370 04</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ODDÍL SPORTOVNÍHO PLAVÁNÍ HODONÍN, z.s.</name>
+        <address>Masarykovo nám. 120/22, Hodonín, 69501</address>
+        <description><![CDATA[Telefon: <br>Email: ji.benes71@gmail.com<br>Web: <br>Adresa: Masarykovo nám. 120/22, Hodonín, 69501]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>ji.benes71@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Masarykovo nám. 120/22, Hodonín, 69501</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ SLAVOJ Obecnice, z.s. -Obecnický Klub Otužilců</name>
+        <address>Obecnice 159, Obecnice, 26221</address>
+        <description><![CDATA[Telefon: <br>Email: sekretariat@obekluotu.cz<br>Web: <br>Adresa: Obecnice 159, Obecnice, 26221]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>sekretariat@obekluotu.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Obecnice 159, Obecnice, 26221</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Orel jednota Holešov</name>
+        <address>Plačkov 519, Holešov, 769 01</address>
+        <description><![CDATA[Telefon: <br>Email: lenka@karhan.cz<br>Web: <br>Adresa: Plačkov 519, Holešov, 769 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>lenka@karhan.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Plačkov 519, Holešov, 769 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Policejní sportovní klub OLYMP Praha, z.s.</name>
+        <address>Za Císařským mlýnem 1063/5, Praha, 170 06</address>
+        <description><![CDATA[Telefon: 733676890<br>Email: davidholy@post.cz<br>Web: <br>Adresa: Za Císařským mlýnem 1063/5, Praha, 170 06]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.3367689E8</value>
+          </Data>
+          <Data name="Email">
+            <value>davidholy@post.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Za Císařským mlýnem 1063/5, Praha, 170 06</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Otužilci Most z.s.</name>
+        <address>Jižní 3177, Most, 43401</address>
+        <description><![CDATA[Telefon: <br>Email: tombab@centrum.cz<br>Web: <br>Adresa: Jižní 3177, Most, 43401]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>tombab@centrum.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Jižní 3177, Most, 43401</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Otužilci Česká Třebová, z.s.</name>
+        <address>Dr. E. Beneše 594, Česká Třebová, 56002</address>
+        <description><![CDATA[Telefon: 737127225<br>Email: dana.e.66@seznam.cz<br>Web: <br>Adresa: Dr. E. Beneše 594, Česká Třebová, 56002]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.37127225E8</value>
+          </Data>
+          <Data name="Email">
+            <value>dana.e.66@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Dr. E. Beneše 594, Česká Třebová, 56002</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecká akademie Vrchlabí, z.s.</name>
+        <address>Revoluční 1278, Vrchlabí, 54301</address>
+        <description><![CDATA[Telefon: <br>Email: info@plavecka-akademie.cz<br>Web: <br>Adresa: Revoluční 1278, Vrchlabí, 54301]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>info@plavecka-akademie.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Revoluční 1278, Vrchlabí, 54301</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>PLAVECKÁ AKADEMIE ZBŮCH z.s.</name>
+        <address>Krašovská 1732/22, Plzeň, 32300</address>
+        <description><![CDATA[Telefon: <br>Email: vaclav.cermak@volny.cz<br>Web: www.pazbuch.cz<br>Adresa: Krašovská 1732/22, Plzeň, 32300]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>vaclav.cermak@volny.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.pazbuch.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Krašovská 1732/22, Plzeň, 32300</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Bohumín, z. s.</name>
+        <address>Na Koutě 400, Bohumín, 735 81</address>
+        <description><![CDATA[Telefon: <br>Email: plavanibohumin@seznam.cz<br>Web: <br>Adresa: Na Koutě 400, Bohumín, 735 81]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>plavanibohumin@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Na Koutě 400, Bohumín, 735 81</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Brno z.s.</name>
+        <address>Zborovská 2049/27, Brno, 61600</address>
+        <description><![CDATA[Telefon: 777198375<br>Email: radvitek@gmail.com<br>Web: <br>Adresa: Zborovská 2049/27, Brno, 61600]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.77198375E8</value>
+          </Data>
+          <Data name="Email">
+            <value>radvitek@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Zborovská 2049/27, Brno, 61600</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Bílina, spolek</name>
+        <address>Tylova 91, Černčice, 439 01</address>
+        <description><![CDATA[Telefon: <br>Email: jankaprokesova@seznam.cz<br>Web: <br>Adresa: Tylova 91, Černčice, 439 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>jankaprokesova@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Tylova 91, Černčice, 439 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký Klub Chrudimští Kati z. s.</name>
+        <address>Hoješín 385, Seč, 53807</address>
+        <description><![CDATA[Telefon: <br>Email: <br>Web: plavanichrudim.com<br>Adresa: Hoješín 385, Seč, 53807]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+          <Data name="Web">
+            <value>plavanichrudim.com</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Hoješín 385, Seč, 53807</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Dům dětí a mládeže Chrudim</name>
+        <address>Palackého třída 418, Chrudim, 53701</address>
+        <description><![CDATA[Telefon: <br>Email: sedlakova@ddm-chrudim.cz<br>Web: <br>Adresa: Palackého třída 418, Chrudim, 53701]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>sedlakova@ddm-chrudim.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Palackého třída 418, Chrudim, 53701</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Děčín z. s.</name>
+        <address>Riegrova 785/60, Děčín, 40502</address>
+        <description><![CDATA[Telefon: 739273316<br>Email: plavanidecin@gmail.com<br>Web: <br>Adresa: Riegrova 785/60, Děčín, 40502]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.39273316E8</value>
+          </Data>
+          <Data name="Email">
+            <value>plavanidecin@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Riegrova 785/60, Děčín, 40502</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Frenštát pod Radhoštěm z.s.</name>
+        <address>Dolní 482, Frenštát pod Radhoštěm, 74401</address>
+        <description><![CDATA[Telefon: <br>Email: balacova@plavanifrenstat.cz<br>Web: <br>Adresa: Dolní 482, Frenštát pod Radhoštěm, 74401]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>balacova@plavanifrenstat.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Dolní 482, Frenštát pod Radhoštěm, 74401</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Hradec Králové z.s.</name>
+        <address>Eliščino nábřeží 842/3, Hradec Králové, 500 03</address>
+        <description><![CDATA[Telefon: 604575300<br>Email: olina.blazek@seznam.cz<br>Web: www.pkhk.eu<br>Adresa: Eliščino nábřeží 842/3, Hradec Králové, 500 03]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.045753E8</value>
+          </Data>
+          <Data name="Email">
+            <value>olina.blazek@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.pkhk.eu</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Eliščino nábřeží 842/3, Hradec Králové, 500 03</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Havířov z.s.</name>
+        <address>Zvonková 463/3, Havířov, 73601</address>
+        <description><![CDATA[Telefon: <br>Email: johana.z@seznam.cz<br>Web: <br>Adresa: Zvonková 463/3, Havířov, 73601]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>johana.z@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Zvonková 463/3, Havířov, 73601</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Hustopeče z. s.</name>
+        <address>Brněnská 526/50, Hustopeče, 69301</address>
+        <description><![CDATA[Telefon: <br>Email: pk.hustopece@seznam.cz<br>Web: <br>Adresa: Brněnská 526/50, Hustopeče, 69301]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>pk.hustopece@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Brněnská 526/50, Hustopeče, 69301</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Jindřichův Hradec, z.s.</name>
+        <address>sídliště Vajgar 865, Jindřichův Hradec, 377 01</address>
+        <description><![CDATA[Telefon: <br>Email: pkjh@pkjh.cz<br>Web: <br>Adresa: sídliště Vajgar 865, Jindřichův Hradec, 377 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>pkjh@pkjh.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>sídliště Vajgar 865, Jindřichův Hradec, 377 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Jeseník, spolek</name>
+        <address>Lipová-lázně 741, Lipová-lázně, 790 61</address>
+        <description><![CDATA[Telefon: <br>Email: martinakubankova@email.cz<br>Web: <br>Adresa: Lipová-lázně 741, Lipová-lázně, 790 61]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>martinakubankova@email.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Lipová-lázně 741, Lipová-lázně, 790 61</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Klub plavecké školy Krokodýl Brno, z.s.</name>
+        <address>Hradilova 107/11, Brno, 615 00</address>
+        <description><![CDATA[Telefon: 725688302<br>Email: ucetni@plavanikrokodyl.cz<br>Web: www.plavanikrokodyl.cz<br>Adresa: Hradilova 107/11, Brno, 615 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.25688302E8</value>
+          </Data>
+          <Data name="Email">
+            <value>ucetni@plavanikrokodyl.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.plavanikrokodyl.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Hradilova 107/11, Brno, 615 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Krnov, zapsaný spolek</name>
+        <address>Puškinova 597/41, Krnov, 79401</address>
+        <description><![CDATA[Telefon: <br>Email: mruzekm@seznam.cz<br>Web: <br>Adresa: Puškinova 597/41, Krnov, 79401]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>mruzekm@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Puškinova 597/41, Krnov, 79401</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Kuřim, z. s.</name>
+        <address>Sportovní 1082/1, Kuřim, 664 34</address>
+        <description><![CDATA[Telefon: <br>Email: gabina@peringer.cz<br>Web: <br>Adresa: Sportovní 1082/1, Kuřim, 664 34]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>gabina@peringer.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Sportovní 1082/1, Kuřim, 664 34</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní plavecký klub Slavia Liberec, z.s.</name>
+        <address>Jablonecká 333/23a, Liberec, 46001</address>
+        <description><![CDATA[Telefon: <br>Email: petr.korinek@czechswimming.cz<br>Web: <br>Adresa: Jablonecká 333/23a, Liberec, 46001]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>petr.korinek@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Jablonecká 333/23a, Liberec, 46001</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Litomyšl, z.s.</name>
+        <address>Kornická 137, Litomyšl, 57001</address>
+        <description><![CDATA[Telefon: <br>Email: pklil@seznam.cz<br>Web: <br>Adresa: Kornická 137, Litomyšl, 57001]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>pklil@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Kornická 137, Litomyšl, 57001</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Litoměřice, z. s.</name>
+        <address>Daliborova 2078/7, Litoměřice, 408 01</address>
+        <description><![CDATA[Telefon: <br>Email: a.delacerna@seznam.cz<br>Web: <br>Adresa: Daliborova 2078/7, Litoměřice, 408 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>a.delacerna@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Daliborova 2078/7, Litoměřice, 408 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Asociace sportovních klubů Lovosice z.s.</name>
+        <address>U Stadionu 1022/2, Lovosice, 410 02</address>
+        <description><![CDATA[Telefon: 735850737<br>Email: marek.helis@seznam.cz<br>Web: <br>Adresa: U Stadionu 1022/2, Lovosice, 410 02]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.35850737E8</value>
+          </Data>
+          <Data name="Email">
+            <value>marek.helis@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>U Stadionu 1022/2, Lovosice, 410 02</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub PROSEN Louny, z.s.</name>
+        <address>Zahradní  2476 2476, Louny 1, 440 01</address>
+        <description><![CDATA[Telefon: <br>Email: prosen@atlas.cz<br>Web: <br>Adresa: Zahradní  2476 2476, Louny 1, 440 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>prosen@atlas.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Zahradní  2476 2476, Louny 1, 440 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Litvínov, z.s.</name>
+        <address>Jiráskova 413, Litvínov, 43601</address>
+        <description><![CDATA[Telefon: <br>Email: plavanichpl.litvinov@seznam.cz<br>Web: <br>Adresa: Jiráskova 413, Litvínov, 43601]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>plavanichpl.litvinov@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Jiráskova 413, Litvínov, 43601</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Mariánské Lázně, z. s.</name>
+        <address>Tyršova 617/6, Mariánské Lázně, 353 01</address>
+        <description><![CDATA[Telefon: <br>Email: info@pkml.cz<br>Web: <br>Adresa: Tyršova 617/6, Mariánské Lázně, 353 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>info@pkml.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Tyršova 617/6, Mariánské Lázně, 353 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Most, z.s.</name>
+        <address>Topolová 801, Most, 43401</address>
+        <description><![CDATA[Telefon: <br>Email: kominekrenne@gmail.com<br>Web: <br>Adresa: Topolová 801, Most, 43401]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>kominekrenne@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Topolová 801, Most, 43401</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Mohelnice, z.s.</name>
+        <address>Třebovská 312/19 312/19, Mohelnice, 78985</address>
+        <description><![CDATA[Telefon: 724500640<br>Email: miroslav.krmela@volny.cz<br>Web: <br>Adresa: Třebovská 312/19 312/19, Mohelnice, 78985]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.2450064E8</value>
+          </Data>
+          <Data name="Email">
+            <value>miroslav.krmela@volny.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Třebovská 312/19 312/19, Mohelnice, 78985</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Seals Masters - Plavecký klub Česká Lípa, z.s.</name>
+        <address>Vladimírská 2512, Česká lípa, 470 01</address>
+        <description><![CDATA[Telefon: <br>Email: jan.nykl@volny.cz<br>Web: <br>Adresa: Vladimírská 2512, Česká lípa, 470 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>jan.nykl@volny.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Vladimírská 2512, Česká lípa, 470 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Mělník z. s.</name>
+        <address>Pivovarská 3183, Mělník, 27601</address>
+        <description><![CDATA[Telefon: <br>Email: plavani.melnik@email.cz<br>Web: <br>Adresa: Pivovarská 3183, Mělník, 27601]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>plavani.melnik@email.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Pivovarská 3183, Mělník, 27601</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Nový Jičín, z. s.</name>
+        <address>Novosady 914/10, Nový Jičín, 741 01</address>
+        <description><![CDATA[Telefon: 734424649<br>Email: jakub.minar@czechswimming.cz<br>Web: <br>Adresa: Novosady 914/10, Nový Jičín, 741 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.34424649E8</value>
+          </Data>
+          <Data name="Email">
+            <value>jakub.minar@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Novosady 914/10, Nový Jičín, 741 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Nymburk,  z.s.</name>
+        <address>Dědinova 1921, Nymburk, 288 02</address>
+        <description><![CDATA[Telefon: <br>Email: pknymburk@gmail.com<br>Web: <br>Adresa: Dědinova 1921, Nymburk, 288 02]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>pknymburk@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Dědinova 1921, Nymburk, 288 02</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Pardubice, z.s.</name>
+        <address>Jiráskova 2664, Pardubice, 530 02</address>
+        <description><![CDATA[Telefon: <br>Email: brigita.stloukalova@czechswimming.cz<br>Web: www.pkpar.cz<br>Adresa: Jiráskova 2664, Pardubice, 530 02]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>brigita.stloukalova@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.pkpar.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Jiráskova 2664, Pardubice, 530 02</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Písek, z.s.</name>
+        <address>Ostrovní 2257, Písek, 397 01</address>
+        <description><![CDATA[Telefon: 777885779<br>Email: solc@aksolc.cz<br>Web: www.pkpi.cz<br>Adresa: Ostrovní 2257, Písek, 397 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.77885779E8</value>
+          </Data>
+          <Data name="Email">
+            <value>solc@aksolc.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.pkpi.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Ostrovní 2257, Písek, 397 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Příbram, z. s.</name>
+        <address>Legionářů 378, Příbram, 261 01</address>
+        <description><![CDATA[Telefon: <br>Email: k.svaton@centrum.cz<br>Web: <br>Adresa: Legionářů 378, Příbram, 261 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>k.svaton@centrum.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Legionářů 378, Příbram, 261 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Roudnice nad Labem, z.s.</name>
+        <address>Libušina 1484, Roudnice nad Labem, 41301</address>
+        <description><![CDATA[Telefon: <br>Email: ivan.nesnera@centrum.cz<br>Web: www.pkroudnice.cz<br>Adresa: Libušina 1484, Roudnice nad Labem, 41301]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>ivan.nesnera@centrum.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.pkroudnice.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Libušina 1484, Roudnice nad Labem, 41301</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Rychnov nad Kněžnou z. s.</name>
+        <address>Slatina nad Zdobnicí 303, Slatina nad Zdobnicí, 51756</address>
+        <description><![CDATA[Telefon: <br>Email: adamkrehky@plavanirychnov.cz<br>Web: <br>Adresa: Slatina nad Zdobnicí 303, Slatina nad Zdobnicí, 51756]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>adamkrehky@plavanirychnov.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Slatina nad Zdobnicí 303, Slatina nad Zdobnicí, 51756</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Stráž pod Ralskem, z.s.</name>
+        <address>Vranovská 271, Mimoň, 47124</address>
+        <description><![CDATA[Telefon: <br>Email: skalnikj@seznam.cz<br>Web: <br>Adresa: Vranovská 271, Mimoň, 47124]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>skalnikj@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Vranovská 271, Mimoň, 47124</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Svitavy, z. s.</name>
+        <address>U Stadionu 937/17, Svitavy, 568 02</address>
+        <description><![CDATA[Telefon: <br>Email: bedrich.fryza@czechswimming.cz<br>Web: <br>Adresa: U Stadionu 937/17, Svitavy, 568 02]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>bedrich.fryza@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>U Stadionu 937/17, Svitavy, 568 02</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Sport Česká Lípa, z.s.</name>
+        <address>Vachkova 3252, Česká Lípa, 47001</address>
+        <description><![CDATA[Telefon: 724182858<br>Email: jan.rum@email.cz<br>Web: <br>Adresa: Vachkova 3252, Česká Lípa, 47001]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.24182858E8</value>
+          </Data>
+          <Data name="Email">
+            <value>jan.rum@email.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Vachkova 3252, Česká Lípa, 47001</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Tachov, z.s.</name>
+        <address>Pobřežní 1868, Tachov, 34701</address>
+        <description><![CDATA[Telefon: 604746440<br>Email: plavanitachov@seznam.cz<br>Web: <br>Adresa: Pobřežní 1868, Tachov, 34701]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.0474644E8</value>
+          </Data>
+          <Data name="Email">
+            <value>plavanitachov@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Pobřežní 1868, Tachov, 34701</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Třinec z. s.</name>
+        <address>Pod Zvonek 355, Český Těšín, 73701</address>
+        <description><![CDATA[Telefon: <br>Email: rene.kotzian@plavani-trinec.cz<br>Web: <br>Adresa: Pod Zvonek 355, Český Těšín, 73701]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>rene.kotzian@plavani-trinec.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Pod Zvonek 355, Český Těšín, 73701</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Vysoké Mýto, z.s.</name>
+        <address>Husova 117, Vysoké Mýto, 566 01</address>
+        <description><![CDATA[Telefon: <br>Email: jiri.masek@tiscali.cz<br>Web: <br>Adresa: Husova 117, Vysoké Mýto, 566 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>jiri.masek@tiscali.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Husova 117, Vysoké Mýto, 566 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Vsetín  z.s.</name>
+        <address>Záviše Kalandry 1095, Vsetín, 755 01</address>
+        <description><![CDATA[Telefon: <br>Email: tjvs@czechswimming.cz<br>Web: <br>Adresa: Záviše Kalandry 1095, Vsetín, 755 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>tjvs@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Záviše Kalandry 1095, Vsetín, 755 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Znojmo z.s.</name>
+        <address>Jindřicha Hořejšího 3425/24, Znojmo, 66902</address>
+        <description><![CDATA[Telefon: 777535302<br>Email: info@pkznojmo.cz<br>Web: <br>Adresa: Jindřicha Hořejšího 3425/24, Znojmo, 66902]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.77535302E8</value>
+          </Data>
+          <Data name="Email">
+            <value>info@pkznojmo.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Jindřicha Hořejšího 3425/24, Znojmo, 66902</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Zábřeh, z.s.</name>
+        <address>Křížkovského 974/3, Zábřeh, 789 01</address>
+        <description><![CDATA[Telefon: <br>Email: sipjir73@seznam.cz<br>Web: <br>Adresa: Křížkovského 974/3, Zábřeh, 789 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>sipjir73@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Křížkovského 974/3, Zábřeh, 789 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Česká Lípa, z. s.</name>
+        <address>Heroutova 1737/32, Česká Lípa, 470 01</address>
+        <description><![CDATA[Telefon: <br>Email: pkcl@seznam.cz<br>Web: <br>Adresa: Heroutova 1737/32, Česká Lípa, 470 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>pkcl@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Heroutova 1737/32, Česká Lípa, 470 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Pandora, z.s.</name>
+        <address>Sluneční 1912, Čáslav, 286 01</address>
+        <description><![CDATA[Telefon: <br>Email: pkpandora@email.cz<br>Web: <br>Adresa: Sluneční 1912, Čáslav, 286 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>pkpandora@email.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Sluneční 1912, Čáslav, 286 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>sportovní klub Sporťák z.s.</name>
+        <address>Mánesova 2530/3a, Říčany, 251 01</address>
+        <description><![CDATA[Telefon: <br>Email: plaf.ricany@gmail.com<br>Web: shorturl.at/yGMR8<br>Adresa: Mánesova 2530/3a, Říčany, 251 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>plaf.ricany@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value>shorturl.at/yGMR8</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Mánesova 2530/3a, Říčany, 251 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>PLAVÁNÍ PŘEROV z.s.</name>
+        <address>Č. Drahlovského 2316/18, Přerov, 75002</address>
+        <description><![CDATA[Telefon: 602538142<br>Email: tomas@gadas.cz<br>Web: <br>Adresa: Č. Drahlovského 2316/18, Přerov, 75002]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.02538142E8</value>
+          </Data>
+          <Data name="Email">
+            <value>tomas@gadas.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Č. Drahlovského 2316/18, Přerov, 75002</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>PLAVÁNÍ České Budějovice, z.s.</name>
+        <address>Sokolský ostrov 402/4, České Budějovice, 370 01</address>
+        <description><![CDATA[Telefon: 777939932<br>Email: info@plavani-cb.cz<br>Web: www.plavani-cb.cz<br>Adresa: Sokolský ostrov 402/4, České Budějovice, 370 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.77939932E8</value>
+          </Data>
+          <Data name="Email">
+            <value>info@plavani-cb.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.plavani-cb.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Sokolský ostrov 402/4, České Budějovice, 370 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký oddíl Frýdek - Místek, z.s.</name>
+        <address>Novodvorská 3067, Frýdek-Místek, 738 01</address>
+        <description><![CDATA[Telefon: <br>Email: info@plavanifm.cz<br>Web: <br>Adresa: Novodvorská 3067, Frýdek-Místek, 738 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>info@plavanifm.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Novodvorská 3067, Frýdek-Místek, 738 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký Oddíl Kralupy z.s</name>
+        <address>Čechova 548, Kralupy nad Vltavou, 278 01</address>
+        <description><![CDATA[Telefon: <br>Email: pokr@czechswimming.cz<br>Web: <br>Adresa: Čechova 548, Kralupy nad Vltavou, 278 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>pokr@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Čechova 548, Kralupy nad Vltavou, 278 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký oddíl Krupka, z.s.</name>
+        <address>Teplická 400, Krupka, 41741</address>
+        <description><![CDATA[Telefon: <br>Email: plaveckyoddilkrupka@seznam.cz<br>Web: <br>Adresa: Teplická 400, Krupka, 41741]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>plaveckyoddilkrupka@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Teplická 400, Krupka, 41741</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>PONMM, z.s.</name>
+        <address>28. října 415, Nové Město nad Metují, 54901</address>
+        <description><![CDATA[Telefon: <br>Email: renata.s@svet-deti.cz<br>Web: <br>Adresa: 28. října 415, Nové Město nad Metují, 54901]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>renata.s@svet-deti.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>28. října 415, Nové Město nad Metují, 54901</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký oddíl Orka Polička, z.s.</name>
+        <address>Hegerova 899, Polička, 572 01</address>
+        <description><![CDATA[Telefon: 728246773<br>Email: jandikovi@unet.cz<br>Web: <br>Adresa: Hegerova 899, Polička, 572 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.28246773E8</value>
+          </Data>
+          <Data name="Email">
+            <value>jandikovi@unet.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Hegerova 899, Polička, 572 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>PARA PLAVÁNÍ PRAHA z.s.</name>
+        <address>Vaníčkova 315/7, Praha, 16900</address>
+        <description><![CDATA[Telefon: <br>Email: ppp@paraplavanipraha.cz<br>Web: <br>Adresa: Vaníčkova 315/7, Praha, 16900]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>ppp@paraplavanipraha.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Vaníčkova 315/7, Praha, 16900</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Prague Sharks International Swimming Club, z. s.</name>
+        <address>Voskovcova 1130/30, Praha, 15200</address>
+        <description><![CDATA[Telefon: <br>Email: eva.chalupova@praguesharks.com<br>Web: <br>Adresa: Voskovcova 1130/30, Praha, 15200]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>eva.chalupova@praguesharks.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Voskovcova 1130/30, Praha, 15200</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecké sporty Kroměříž, z.s.</name>
+        <address>Obvodová 3965/17, Kroměříž, 767 01</address>
+        <description><![CDATA[Telefon: <br>Email: oharekz@seznam.cz<br>Web: <br>Adresa: Obvodová 3965/17, Kroměříž, 767 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>oharekz@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Obvodová 3965/17, Kroměříž, 767 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecké sporty Šternberk, z.s.</name>
+        <address>Puškinova 1452/13, Šternberk, 78501</address>
+        <description><![CDATA[Telefon: <br>Email: lubomir.libal@volny.cz<br>Web: <br>Adresa: Puškinova 1452/13, Šternberk, 78501]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>lubomir.libal@volny.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Puškinova 1452/13, Šternberk, 78501</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký veteránský klub Brno, z.s.</name>
+        <address>Velkopavlovická 4068/17, Brno, 628 00</address>
+        <description><![CDATA[Telefon: <br>Email: smerdaruda@seznam.cz<br>Web: <br>Adresa: Velkopavlovická 4068/17, Brno, 628 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>smerdaruda@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Velkopavlovická 4068/17, Brno, 628 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Patriot Čelákovice, spolek</name>
+        <address>Jana Kamaráda 1995, Čelákovice, 25088</address>
+        <description><![CDATA[Telefon: <br>Email: dousova.allena@gmail.com<br>Web: <br>Adresa: Jana Kamaráda 1995, Čelákovice, 25088]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>dousova.allena@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Jana Kamaráda 1995, Čelákovice, 25088</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavání Prachatice, z. s.</name>
+        <address>U Lipového 1293/1293, 383 01 Prachatice</address>
+        <description><![CDATA[Telefon: <br>Email: plavani.prachatice@gmail.com<br>Web: <br>Adresa: U Lipového 1293/1293, 383 01 Prachatice]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>plavani.prachatice@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>U Lipového 1293/1293, 383 01 Prachatice</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavem Tu,  z.s.</name>
+        <address>Jana Palacha 2361, Turnov, 511 01</address>
+        <description><![CDATA[Telefon: 702156772<br>Email: kancelar@msturnov.cz<br>Web: <br>Adresa: Jana Palacha 2361, Turnov, 511 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.02156772E8</value>
+          </Data>
+          <Data name="Email">
+            <value>kancelar@msturnov.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Jana Palacha 2361, Turnov, 511 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tělovýchovná jednota Prostějov, z.s.</name>
+        <address>Anenská 936/17, Prostějov, 796 01</address>
+        <description><![CDATA[Telefon: <br>Email: petr.adamec@czechswimming.cz<br>Web: <br>Adresa: Anenská 936/17, Prostějov, 796 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>petr.adamec@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Anenská 936/17, Prostějov, 796 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plav. škola Beta Havlíčkův Brod</name>
+        <address>U Stadionu 3000, Havlíčkův Brod, 580 010</address>
+        <description><![CDATA[Telefon: <br>Email: mares.libor@worldonline.cz<br>Web: <br>Adresa: U Stadionu 3000, Havlíčkův Brod, 580 010]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>mares.libor@worldonline.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>U Stadionu 3000, Havlíčkův Brod, 580 010</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>PŠR z.s.</name>
+        <address>Loučná 672/18, Brno, 644 00</address>
+        <description><![CDATA[Telefon: <br>Email: kocar@galantbrno.cz<br>Web: <br>Adresa: Loučná 672/18, Brno, 644 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>kocar@galantbrno.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Loučná 672/18, Brno, 644 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Rybníkářky a otužilci Holoubkov, z.s.</name>
+        <address>Holoubkov 93 93, Holoubkov, 33801</address>
+        <description><![CDATA[Telefon: <br>Email: novakovajitka@centrum.cz<br>Web: <br>Adresa: Holoubkov 93 93, Holoubkov, 33801]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>novakovajitka@centrum.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Holoubkov 93 93, Holoubkov, 33801</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ROYAL plavecký klub z.s.</name>
+        <address>Klimentská 1652/36, Praha, 11000</address>
+        <description><![CDATA[Telefon: <br>Email: info@royalswim.eu<br>Web: <br>Adresa: Klimentská 1652/36, Praha, 11000]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>info@royalswim.eu</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Klimentská 1652/36, Praha, 11000</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní klub Radbuza Plzeň, z.s.</name>
+        <address>Kozinova 2788/3, Plzeň, 301 00</address>
+        <description><![CDATA[Telefon: <br>Email: info@skradbuza.cz<br>Web: <br>Adresa: Kozinova 2788/3, Plzeň, 301 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>info@skradbuza.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Kozinova 2788/3, Plzeň, 301 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní zařízení města Hořice</name>
+        <address>Janderova 2156, Hořice, 50801</address>
+        <description><![CDATA[Telefon: 606048131<br>Email: petr.rucker@sporthorice.cz<br>Web: <br>Adresa: Janderova 2156, Hořice, 50801]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.06048131E8</value>
+          </Data>
+          <Data name="Email">
+            <value>petr.rucker@sporthorice.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Janderova 2156, Hořice, 50801</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Rejnoci Domažlice, z.s.</name>
+        <address>Fügnerova 647, Domažlice, 34401</address>
+        <description><![CDATA[Telefon: <br>Email: pkrejnoci@seznam.cz<br>Web: <br>Adresa: Fügnerova 647, Domažlice, 34401]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>pkrejnoci@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Fügnerova 647, Domažlice, 34401</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Swim Academy BoRa, z. s.</name>
+        <address>Nová 265, Doksy, 273 64</address>
+        <description><![CDATA[Telefon: 602174613<br>Email: swimacademy@centrum.cz<br>Web: swimacademy.cz<br>Adresa: Nová 265, Doksy, 273 64]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.02174613E8</value>
+          </Data>
+          <Data name="Email">
+            <value>swimacademy@centrum.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>swimacademy.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Nová 265, Doksy, 273 64</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Spolek pro akvabely, z.s.</name>
+        <address>21. dubna 981, Valtice, 69142</address>
+        <description><![CDATA[Telefon: <br>Email: ladislava.palkova@email.cz<br>Web: <br>Adresa: 21. dubna 981, Valtice, 69142]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>ladislava.palkova@email.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>21. dubna 981, Valtice, 69142</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SYNCHRO CLUB HAVÍŘOV, z.s.</name>
+        <address>Karolíny Světlé 1360/22, Havířov, 73601</address>
+        <description><![CDATA[Telefon: 721825799<br>Email: synchro.havirov@gmail.com<br>Web: <br>Adresa: Karolíny Světlé 1360/22, Havířov, 73601]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.21825799E8</value>
+          </Data>
+          <Data name="Email">
+            <value>synchro.havirov@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Karolíny Světlé 1360/22, Havířov, 73601</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sport Club Plavecký areál Pardubice, z.s.</name>
+        <address>Jiráskova 2664, Pardubice, 530 02</address>
+        <description><![CDATA[Telefon: <br>Email: scpap@czechswimming.cz<br>Web: <br>Adresa: Jiráskova 2664, Pardubice, 530 02]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>scpap@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Jiráskova 2664, Pardubice, 530 02</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sri Chinmoy Marathon Team z. s.</name>
+        <address>Pod Dlážděnkou 2099/1, Praha, 182 00</address>
+        <description><![CDATA[Telefon: 605231433<br>Email: abhejali@madalbal.cz<br>Web: plavecka-sestihodinovka.cz<br>Adresa: Pod Dlážděnkou 2099/1, Praha, 182 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.05231433E8</value>
+          </Data>
+          <Data name="Email">
+            <value>abhejali@madalbal.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>plavecka-sestihodinovka.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Pod Dlážděnkou 2099/1, Praha, 182 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>PK MASTERS Ústí nad Labem, z. s.</name>
+        <address>U Koupaliště 575/11, Ústí nad Labem, 40001</address>
+        <description><![CDATA[Telefon: <br>Email: petrluftner@gmail.com<br>Web: https://skspolchemie.webnode.cz/<br>Adresa: U Koupaliště 575/11, Ústí nad Labem, 40001]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>petrluftner@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value>https://skspolchemie.webnode.cz/</value>
+          </Data>
+          <Data name="Adresa">
+            <value>U Koupaliště 575/11, Ústí nad Labem, 40001</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SK Impuls Praha, z. s.</name>
+        <address>Vinohradská 920/54, Praha, 12000</address>
+        <description><![CDATA[Telefon: <br>Email: mpalaty@seznam.cz<br>Web: <br>Adresa: Vinohradská 920/54, Praha, 12000]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>mpalaty@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Vinohradská 920/54, Praha, 12000</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SK KONTAKT BRNO z. s.</name>
+        <address>Srbská 2741/53, Brno, 61200</address>
+        <description><![CDATA[Telefon: <br>Email: sommer@sk-kb.cz<br>Web: <br>Adresa: Srbská 2741/53, Brno, 61200]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>sommer@sk-kb.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Srbská 2741/53, Brno, 61200</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SK KONTAKT OSTRAVA z.s.</name>
+        <address>Elektrárenská 5707/10, Ostrava, 72100</address>
+        <description><![CDATA[Telefon: <br>Email: bob68@seznam.cz<br>Web: <br>Adresa: Elektrárenská 5707/10, Ostrava, 72100]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>bob68@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Elektrárenská 5707/10, Ostrava, 72100</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SK KONTAKT KARLOVY VARY, z.s.</name>
+        <address>Smetanovy sady 1145/1, Karlovy Vary, 36001</address>
+        <description><![CDATA[Telefon: <br>Email: skkv@skkv.cz<br>Web: <br>Adresa: Smetanovy sady 1145/1, Karlovy Vary, 36001]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>skkv@skkv.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Smetanovy sady 1145/1, Karlovy Vary, 36001</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Krajský svaz ČSPS - Karlovarský kraj</name>
+        <address>Stará Ovčárna 2155, Sokolov, 35601</address>
+        <description><![CDATA[Telefon: <br>Email: vendulka.maxova@czechswimming.cz<br>Web: <br>Adresa: Stará Ovčárna 2155, Sokolov, 35601]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>vendulka.maxova@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Stará Ovčárna 2155, Sokolov, 35601</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Výtahy Náchod - Metujští tygři, z. s.</name>
+        <address>Slunečná 1833, Náchod, 54701</address>
+        <description><![CDATA[Telefon: <br>Email: petr.otuzilec@seznam.cz<br>Web: <br>Adresa: Slunečná 1833, Náchod, 54701]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>petr.otuzilec@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Slunečná 1833, Náchod, 54701</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní klub plavání Sokolov, z.s.</name>
+        <address>Dvořákova 1078, Sokolov, 35601</address>
+        <description><![CDATA[Telefon: <br>Email: sedmavlna@seznam.cz<br>Web: <br>Adresa: Dvořákova 1078, Sokolov, 35601]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>sedmavlna@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Dvořákova 1078, Sokolov, 35601</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Slavia Praha - plavání, z.s.</name>
+        <address>Vladivostocká 1460/10, Praha, 100 00</address>
+        <description><![CDATA[Telefon: <br>Email: boubinova.j@seznam.cz<br>Web: <br>Adresa: Vladivostocká 1460/10, Praha, 100 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>boubinova.j@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Vladivostocká 1460/10, Praha, 100 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SK VODOMÍLEK, z.s.</name>
+        <address>Evžena Rošického 2684/6, Jihlava, 58601</address>
+        <description><![CDATA[Telefon: <br>Email: lada.korinkova@seznam.cz<br>Web: <br>Adresa: Evžena Rošického 2684/6, Jihlava, 58601]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>lada.korinkova@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Evžena Rošického 2684/6, Jihlava, 58601</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>JAZZMANI ŽATEC, spolek</name>
+        <address>třída Obránců míru 8, Žatec, 438 01</address>
+        <description><![CDATA[Telefon: <br>Email: karas.jiri@seznam.cz<br>Web: <br>Adresa: třída Obránců míru 8, Žatec, 438 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>karas.jiri@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>třída Obránců míru 8, Žatec, 438 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Swim Masters Zlín z. s.</name>
+        <address>Lazy IV 3875, Zlín, 760 01</address>
+        <description><![CDATA[Telefon: <br>Email: masters.zlin@seznam.cz<br>Web: <br>Adresa: Lazy IV 3875, Zlín, 760 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>masters.zlin@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Lazy IV 3875, Zlín, 760 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní otužilci Hradec Králové, z.s.</name>
+        <address>Severní 735/3, Hradec Králové, 50003</address>
+        <description><![CDATA[Telefon: <br>Email: kurina@goto.cz<br>Web: <br>Adresa: Severní 735/3, Hradec Králové, 50003]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>kurina@goto.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Severní 735/3, Hradec Králové, 50003</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní oddíl plavání Kolín, z.s.</name>
+        <address>Bezručova 866, Kolín, 280 02</address>
+        <description><![CDATA[Telefon: <br>Email: miloslav.lhotka@czechswimming.cz<br>Web: <br>Adresa: Bezručova 866, Kolín, 280 02]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>miloslav.lhotka@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Bezručova 866, Kolín, 280 02</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Středisko volného času Boskovice , příspěvková organizace</name>
+        <address>17.listopadu 153/1, Boskovice, 680 01</address>
+        <description><![CDATA[Telefon: <br>Email: jenahorak@seznam.cz; svetlanahrdlickova@seznam.cz<br>Web: <br>Adresa: 17.listopadu 153/1, Boskovice, 680 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>jenahorak@seznam.cz; svetlanahrdlickova@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>17.listopadu 153/1, Boskovice, 680 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Slavoj Bruntál, z.s.</name>
+        <address>Květná 1825/25, Bruntál, 792 01</address>
+        <description><![CDATA[Telefon: 604933124<br>Email: sjbr@seznam.cz<br>Web: <br>Adresa: Květná 1825/25, Bruntál, 792 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.04933124E8</value>
+          </Data>
+          <Data name="Email">
+            <value>sjbr@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Květná 1825/25, Bruntál, 792 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní klub ASC, z.s.</name>
+        <address>Mírového hnutí 2385/3, Praha, 14900</address>
+        <description><![CDATA[Telefon: <br>Email: michal.andres@czechswimming.cz<br>Web: <br>Adresa: Mírového hnutí 2385/3, Praha, 14900]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>michal.andres@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Mírového hnutí 2385/3, Praha, 14900</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní Klub policie KOMETA BRNO z.s.</name>
+        <address>Bauerova 321/5, Brno, 60300</address>
+        <description><![CDATA[Telefon: 541247731<br>Email: plavani@kometaplavani.cz<br>Web: www.kometaplavani.cz<br>Adresa: Bauerova 321/5, Brno, 60300]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>5.41247731E8</value>
+          </Data>
+          <Data name="Email">
+            <value>plavani@kometaplavani.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.kometaplavani.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Bauerova 321/5, Brno, 60300</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Slávie Chomutov, z.s.</name>
+        <address>Mostecká 5887, Chomutov, 43001</address>
+        <description><![CDATA[Telefon: <br>Email: zaruba@comsense.cz<br>Web: <br>Adresa: Mostecká 5887, Chomutov, 43001]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>zaruba@comsense.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Mostecká 5887, Chomutov, 43001</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>PK Slávie Kadaň, z.s.</name>
+        <address>Na Průtahu 1855, Kadaň, 43201</address>
+        <description><![CDATA[Telefon: <br>Email: mar.doks@seznam.cz<br>Web: <br>Adresa: Na Průtahu 1855, Kadaň, 43201]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>mar.doks@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Na Průtahu 1855, Kadaň, 43201</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tělovýchovná jednota Slezan Opava, z.s.</name>
+        <address>Boženy Němcové 1/20, Opava, 746 01</address>
+        <description><![CDATA[Telefon: <br>Email: slezan.op@gmail.com<br>Web: <br>Adresa: Boženy Němcové 1/20, Opava, 746 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>slezan.op@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Boženy Němcové 1/20, Opava, 746 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Slávia VŠ Plzeň z.s.</name>
+        <address>náměstí Generála Píky 2433/42, Plzeň, 326 00</address>
+        <description><![CDATA[Telefon: <br>Email: bazilova@plaveckyklubplzen.cz<br>Web: www.plaveckyklubplzen.cz<br>Adresa: náměstí Generála Píky 2433/42, Plzeň, 326 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>bazilova@plaveckyklubplzen.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.plaveckyklubplzen.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>náměstí Generála Píky 2433/42, Plzeň, 326 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Slovácká Slavia Uherské Hradiště, z.s.</name>
+        <address>Stonky 860, Uherské Hradiště, 686 01</address>
+        <description><![CDATA[Telefon: <br>Email: pouh@email.cz<br>Web: <br>Adresa: Stonky 860, Uherské Hradiště, 686 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>pouh@email.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Stonky 860, Uherské Hradiště, 686 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Slezský plavecký klub z. s.</name>
+        <address>Bítov 156, Bítov, 74301</address>
+        <description><![CDATA[Telefon: 736420169<br>Email: info@swimteam.cz<br>Web: www.swimteam.cz<br>Adresa: Bítov 156, Bítov, 74301]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.36420169E8</value>
+          </Data>
+          <Data name="Email">
+            <value>info@swimteam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.swimteam.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Bítov 156, Bítov, 74301</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tělovýchovná jednota Slavoj Český Těšín z.s.</name>
+        <address>Svojsíkova 833, Český Těšín, 737 01</address>
+        <description><![CDATA[Telefon: <br>Email: i.makaj@seznam.cz<br>Web: <br>Adresa: Svojsíkova 833, Český Těšín, 737 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>i.makaj@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Svojsíkova 833, Český Těšín, 737 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Slovan Karlovy Vary, z.s.</name>
+        <address>Dr. Davida Bechera 1009/18, Karlovy Vary, 360 01</address>
+        <description><![CDATA[Telefon: <br>Email: ap@email.cz<br>Web: <br>Adresa: Dr. Davida Bechera 1009/18, Karlovy Vary, 360 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>ap@email.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Dr. Davida Bechera 1009/18, Karlovy Vary, 360 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Slovan Varnsdorf z.s.</name>
+        <address>Západní 2984, Varnsdorf, 407 47</address>
+        <description><![CDATA[Telefon: <br>Email: zbynek.simi@seznam.cz<br>Web: <br>Adresa: Západní 2984, Varnsdorf, 407 47]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>zbynek.simi@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Západní 2984, Varnsdorf, 407 47</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sokol Katovice z.s.</name>
+        <address>Podskalí 455, Katovice, 38711</address>
+        <description><![CDATA[Telefon: <br>Email: katovice.dzp@seznam.cz<br>Web: sokol-katovice-dzp.webnode.cz<br>Adresa: Podskalí 455, Katovice, 38711]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>katovice.dzp@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>sokol-katovice-dzp.webnode.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Podskalí 455, Katovice, 38711</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Nová Paka, z. s.</name>
+        <address>Havlova 1363, Nová Paka, 509 01</address>
+        <description><![CDATA[Telefon: 602355012<br>Email: pacesny@ad-as.cz<br>Web: <br>Adresa: Havlova 1363, Nová Paka, 509 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.02355012E8</value>
+          </Data>
+          <Data name="Email">
+            <value>pacesny@ad-as.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Havlova 1363, Nová Paka, 509 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Spartak Choceň, oddíl Zimního a dálkového plavání z.s.</name>
+        <address>Choceň 1, 565 01 Choceň</address>
+        <description><![CDATA[Telefon: 605008670<br>Email: jirkasejna@gmail.com<br>Web: <br>Adresa: Choceň 1, 565 01 Choceň]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.0500867E8</value>
+          </Data>
+          <Data name="Email">
+            <value>jirkasejna@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Choceň 1, 565 01 Choceň</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Spartak Hořovice, z.s.</name>
+        <address>Ke Stadionu 1385/1, Hořovice, 268 01</address>
+        <description><![CDATA[Telefon: <br>Email: ekl.tom83@gmail.com<br>Web: <br>Adresa: Ke Stadionu 1385/1, Hořovice, 268 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>ekl.tom83@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Ke Stadionu 1385/1, Hořovice, 268 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ SPARTA Kutná Hora, z.s.</name>
+        <address>Čáslavská 198, Kutná Hora, 284 01</address>
+        <description><![CDATA[Telefon: <br>Email: Spkh@seznam.cz<br>Web: <br>Adresa: Čáslavská 198, Kutná Hora, 284 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>Spkh@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Čáslavská 198, Kutná Hora, 284 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SPORT MEXIKO z.s.</name>
+        <address>Hladnovská 259/128, Ostrava, 71200</address>
+        <description><![CDATA[Telefon: <br>Email: bazen.mexiko@seznam.cz<br>Web: <br>Adresa: Hladnovská 259/128, Ostrava, 71200]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>bazen.mexiko@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Hladnovská 259/128, Ostrava, 71200</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ SPARTAK PŘEROV, spolek</name>
+        <address>Bezručova 770/4, Přerov, 750 02</address>
+        <description><![CDATA[Telefon: 607645266<br>Email: camie@volny.cz<br>Web: <br>Adresa: Bezručova 770/4, Přerov, 750 02]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.07645266E8</value>
+          </Data>
+          <Data name="Email">
+            <value>camie@volny.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Bezručova 770/4, Přerov, 750 02</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportoviště města Sušice, příspěvková organizace</name>
+        <address>Na Hrázi 270, Sušice, 342 00</address>
+        <description><![CDATA[Telefon: <br>Email: budmara@seznam.cz<br>Web: <br>Adresa: Na Hrázi 270, Sušice, 342 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>budmara@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Na Hrázi 270, Sušice, 342 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SPARTAK TRUTNOV, z.s.</name>
+        <address>Skřivánčí 770, Trutnov, 54101</address>
+        <description><![CDATA[Telefon: 736641434<br>Email: info@spartaktrutnov.com<br>Web: <br>Adresa: Skřivánčí 770, Trutnov, 54101]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.36641434E8</value>
+          </Data>
+          <Data name="Email">
+            <value>info@spartaktrutnov.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Skřivánčí 770, Trutnov, 54101</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tělovýchovná jednota Spartak Třebíč, spolek</name>
+        <address>Manž. Curieových 1112, Třebíč, 67401</address>
+        <description><![CDATA[Telefon: 603484769<br>Email: zdenek.dolezal@czechswimming.cz<br>Web: <br>Adresa: Manž. Curieových 1112, Třebíč, 67401]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.03484769E8</value>
+          </Data>
+          <Data name="Email">
+            <value>zdenek.dolezal@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Manž. Curieových 1112, Třebíč, 67401</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Spartak Uherský Brod, z.s.</name>
+        <address>U Stadionu 2295, Uherský Brod, 688 01</address>
+        <description><![CDATA[Telefon: <br>Email: spub@centrum.cz<br>Web: <br>Adresa: U Stadionu 2295, Uherský Brod, 688 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>spub@centrum.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>U Stadionu 2295, Uherský Brod, 688 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní plavecký klub Rumburk, z.s.</name>
+        <address>Nerudova 837/20, Rumburk, 40801</address>
+        <description><![CDATA[Telefon: 776740708<br>Email: spkrumburk@seznam.cz<br>Web: <br>Adresa: Nerudova 837/20, Rumburk, 40801]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.76740708E8</value>
+          </Data>
+          <Data name="Email">
+            <value>spkrumburk@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Nerudova 837/20, Rumburk, 40801</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SPORT performance, z. s.</name>
+        <address>Dusíkova 910/23, Brno, 63800</address>
+        <description><![CDATA[Telefon: <br>Email: vitekrostislav@gmail.com<br>Web: <br>Adresa: Dusíkova 910/23, Brno, 63800]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>vitekrostislav@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Dusíkova 910/23, Brno, 63800</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SPORTSTYL Hradec Králové, z.s.</name>
+        <address>Habrmanova 192/2, Hradec Králové, 50002</address>
+        <description><![CDATA[Telefon: 774103284<br>Email: bergman@creatocz.cz<br>Web: <br>Adresa: Habrmanova 192/2, Hradec Králové, 50002]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.74103284E8</value>
+          </Data>
+          <Data name="Email">
+            <value>bergman@creatocz.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Habrmanova 192/2, Hradec Králové, 50002</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Swimmpower Prague, z.s.</name>
+        <address>Krokova 1700/8, Praha, 128 00</address>
+        <description><![CDATA[Telefon: <br>Email: mpowerswimming@gmail.com<br>Web: <br>Adresa: Krokova 1700/8, Praha, 128 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>mpowerswimming@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Krokova 1700/8, Praha, 128 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Hodolany, z.s.</name>
+        <address>Farského 376/14, Olomouc, 77900</address>
+        <description><![CDATA[Telefon: 606713212<br>Email: milospac@email.cz<br>Web: <br>Adresa: Farského 376/14, Olomouc, 77900]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.06713212E8</value>
+          </Data>
+          <Data name="Email">
+            <value>milospac@email.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Farského 376/14, Olomouc, 77900</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní klub NIKÉ Jilemnice z.s.</name>
+        <address>Jana Harracha 97, Jilemnice, 514 01</address>
+        <description><![CDATA[Telefon: <br>Email: sknikejilemnice@email.cz<br>Web: <br>Adresa: Jana Harracha 97, Jilemnice, 514 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>sknikejilemnice@email.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Jana Harracha 97, Jilemnice, 514 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tělovýchovná jednota Klatovy, z.s.</name>
+        <address>Voříškova 715, Klatovy, 339 01</address>
+        <description><![CDATA[Telefon: <br>Email: slajs@seznam.cz<br>Web: <br>Adresa: Voříškova 715, Klatovy, 339 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>slajs@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Voříškova 715, Klatovy, 339 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Rožnov pod Radhoštěm, spolek</name>
+        <address>Sokolská 497, Rožnov pod Radhoštěm, 756 61</address>
+        <description><![CDATA[Telefon: <br>Email: zdenek.kaminski@czechswimming.cz<br>Web: <br>Adresa: Sokolská 497, Rožnov pod Radhoštěm, 756 61]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>zdenek.kaminski@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Sokolská 497, Rožnov pod Radhoštěm, 756 61</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Tábor, z.s.</name>
+        <address>Kvapilova 2500, Tábor, 390 03</address>
+        <description><![CDATA[Telefon: <br>Email: tjta@czechswimming.cz<br>Web: www.tjta.cz<br>Adresa: Kvapilova 2500, Tábor, 390 03]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>tjta@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.tjta.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Kvapilova 2500, Tábor, 390 03</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tělovýchovná jednota Valašské Meziříčí, spolek</name>
+        <address>Žerotínova 736, Valašské Meziříčí, 75701</address>
+        <description><![CDATA[Telefon: <br>Email: arnostj@volny.cz<br>Web: <br>Adresa: Žerotínova 736, Valašské Meziříčí, 75701]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>arnostj@volny.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Žerotínova 736, Valašské Meziříčí, 75701</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ plavání Znojmo, z.s.</name>
+        <address>Holandská 2716/5, Znojmo, 67181</address>
+        <description><![CDATA[Telefon: <br>Email: znojemskeplavani@seznam.cz<br>Web: <br>Adresa: Holandská 2716/5, Znojmo, 67181]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>znojemskeplavani@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Holandská 2716/5, Znojmo, 67181</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Šumperk, z.s.</name>
+        <address>Žerotínova 1691/55, Šumperk, 787 01</address>
+        <description><![CDATA[Telefon: <br>Email: eliska0svobodova@gmail.com<br>Web: <br>Adresa: Žerotínova 1691/55, Šumperk, 787 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>eliska0svobodova@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Žerotínova 1691/55, Šumperk, 787 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ TESLA BRNO z.s.</name>
+        <address>Halasovo náměstí 826/7, Brno, 638 00</address>
+        <description><![CDATA[Telefon: <br>Email: mirka.lungova@czechswimming.cz<br>Web: <br>Adresa: Halasovo náměstí 826/7, Brno, 638 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>mirka.lungova@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Halasovo náměstí 826/7, Brno, 638 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tělovýchovná jednota Třineckých železáren, spolek</name>
+        <address>Tyršova 863, Třinec, 73961</address>
+        <description><![CDATA[Telefon: <br>Email: ivo.konvicka@gmail.com<br>Web: <br>Adresa: Tyršova 863, Třinec, 73961]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>ivo.konvicka@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Tyršova 863, Třinec, 73961</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Univerzitní sportovní klub Praha, spolek</name>
+        <address>Na Folimance 2490/2, Praha, 120 00</address>
+        <description><![CDATA[Telefon: <br>Email: petra.venturova@czechswimming.cz<br>Web: www.uskplavani.cz<br>Adresa: Na Folimance 2490/2, Praha, 120 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>petra.venturova@czechswimming.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.uskplavani.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Na Folimance 2490/2, Praha, 120 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Vysokoškolský sportovní klub Univerzita Brno</name>
+        <address>Heinrichova 894/24, Brno, 602 00</address>
+        <description><![CDATA[Telefon: <br>Email: daniela.hanusova@eon.cz<br>Web: <br>Adresa: Heinrichova 894/24, Brno, 602 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>daniela.hanusova@eon.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Heinrichova 894/24, Brno, 602 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SKUP Olomouc, z.s.</name>
+        <address>U sportovní haly 38/2, Olomouc, 77900</address>
+        <description><![CDATA[Telefon: <br>Email: dub.skup@gmail.com<br>Web: <br>Adresa: U sportovní haly 38/2, Olomouc, 77900]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>dub.skup@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>U sportovní haly 38/2, Olomouc, 77900</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>V Aquatics Swimming Academy, z.s.</name>
+        <address>Sámova 12/1574, Praha, 101 00</address>
+        <description><![CDATA[Telefon: <br>Email: manager@vaquatics.cz<br>Web: <br>Adresa: Sámova 12/1574, Praha, 101 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>manager@vaquatics.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Sámova 12/1574, Praha, 101 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub Vodní stavby Praha, z. s.</name>
+        <address>Budějovická 864/56, Praha, 14000</address>
+        <description><![CDATA[Telefon: <br>Email: vosp@plavecky.club<br>Web: https://vosp.plavecky.club/<br>Adresa: Budějovická 864/56, Praha, 14000]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>vosp@plavecky.club</value>
+          </Data>
+          <Data name="Web">
+            <value>https://vosp.plavecky.club/</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Budějovická 864/56, Praha, 14000</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Waters' Sports School, z.ú.]]></name>
+        <address>Malkovského 598, Praha, 19900</address>
+        <description><![CDATA[Telefon: <br>Email: k8.vodickova@seznam.cz<br>Web: <br>Adresa: Malkovského 598, Praha, 19900]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>k8.vodickova@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Malkovského 598, Praha, 19900</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Zlínský plavecký klub, z.s.</name>
+        <address>Zámecká 333, Zlín, 763 14</address>
+        <description><![CDATA[Telefon: 775008308<br>Email: zpk@zlinskyplaveckyklub.cz<br>Web: www.zlinskyplaveckyklub.cz<br>Adresa: Zámecká 333, Zlín, 763 14]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.75008308E8</value>
+          </Data>
+          <Data name="Email">
+            <value>zpk@zlinskyplaveckyklub.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.zlinskyplaveckyklub.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Zámecká 333, Zlín, 763 14</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>PLAVECKÝ KLUB ZLÍN, z.s.</name>
+        <address>Hradská 854 854, Zlín, 76001</address>
+        <description><![CDATA[Telefon: 731133036<br>Email: <br>Web: <br>Adresa: Hradská 854 854, Zlín, 76001]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.31133036E8</value>
+          </Data>
+          <Data name="Email">
+            <value/>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Hradská 854 854, Zlín, 76001</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sportovní club Zéva Hradec Králové, z.s.</name>
+        <address>Eliščino nábřeží 842/3, Hradec Králové, 500 03</address>
+        <description><![CDATA[Telefon: <br>Email: kamka.vesela@gmail.com<br>Web: <br>Adresa: Eliščino nábřeží 842/3, Hradec Králové, 500 03]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>kamka.vesela@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Eliščino nábřeží 842/3, Hradec Králové, 500 03</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Zažít Řepy, z. s.</name>
+        <address>Vondroušova 1217/32, Praha, 16300</address>
+        <description><![CDATA[Telefon: <br>Email: dirbak@seznam.cz<br>Web: <br>Adresa: Vondroušova 1217/32, Praha, 16300]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>dirbak@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Vondroušova 1217/32, Praha, 16300</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ústecká akademie plaveckých sportů z.s.</name>
+        <address>Klíšská 892/90a, Ústí nad Labem, 40001</address>
+        <description><![CDATA[Telefon: 602450366<br>Email: mpku@seznam.cz<br>Web: <br>Adresa: Klíšská 892/90a, Ústí nad Labem, 40001]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>6.02450366E8</value>
+          </Data>
+          <Data name="Email">
+            <value>mpku@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Klíšská 892/90a, Ústí nad Labem, 40001</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Českokrumlovský plavecký klub</name>
+        <address>Fialková 225, Český Krumlov, 381 01</address>
+        <description><![CDATA[Telefon: <br>Email: f.skricil@seznam.cz<br>Web: <br>Adresa: Fialková 225, Český Krumlov, 381 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>f.skricil@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Fialková 225, Český Krumlov, 381 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Česká otužilecká unie</name>
+        <address>Lucemburská 1579/33, Praha, 130 00</address>
+        <description><![CDATA[Telefon: 776601610<br>Email: vlkomarek@volny.cz<br>Web: www.otuzilci.cz<br>Adresa: Lucemburská 1579/33, Praha, 130 00]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value>7.7660161E8</value>
+          </Data>
+          <Data name="Email">
+            <value>vlkomarek@volny.cz</value>
+          </Data>
+          <Data name="Web">
+            <value>www.otuzilci.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Lucemburská 1579/33, Praha, 130 00</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký klub - ŠIK ČB, z.s.</name>
+        <address>Rudolfovská tř. 634, České Budějovice, 370 01</address>
+        <description><![CDATA[Telefon: <br>Email: cirhan.r@seznam.cz<br>Web: <br>Adresa: Rudolfovská tř. 634, České Budějovice, 370 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>cirhan.r@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Rudolfovská tř. 634, České Budějovice, 370 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Plavecký Klub Žraloci Cheb  z.s.</name>
+        <address>Na Hradčanech 578/30, Cheb, 350 02</address>
+        <description><![CDATA[Telefon: <br>Email: zralocicheb@gmail.com<br>Web: www.pkzrch.cz<br>Adresa: Na Hradčanech 578/30, Cheb, 350 02]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>zralocicheb@gmail.com</value>
+          </Data>
+          <Data name="Web">
+            <value>www.pkzrch.cz</value>
+          </Data>
+          <Data name="Adresa">
+            <value>Na Hradčanech 578/30, Cheb, 350 02</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Žralok Nová Paka, z. s.</name>
+        <address>Havlova 1611, Nová Paka, 50901</address>
+        <description><![CDATA[Telefon: <br>Email: zraloknp@seznam.cz<br>Web: <br>Adresa: Havlova 1611, Nová Paka, 50901]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>zraloknp@seznam.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Havlova 1611, Nová Paka, 50901</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TJ Žďár nad Sázavou z.s.</name>
+        <address>Jungmannova 1495/8, Žďár nad Sázavou, 591 01</address>
+        <description><![CDATA[Telefon: <br>Email: plavcizr@plavcizr.cz<br>Web: <br>Adresa: Jungmannova 1495/8, Žďár nad Sázavou, 591 01]]></description>
+        <styleUrl>#icon-1701-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Telefon">
+            <value/>
+          </Data>
+          <Data name="Email">
+            <value>plavcizr@plavcizr.cz</value>
+          </Data>
+          <Data name="Web">
+            <value/>
+          </Data>
+          <Data name="Adresa">
+            <value>Jungmannova 1495/8, Žďár nad Sázavou, 591 01</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
