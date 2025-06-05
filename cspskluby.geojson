@@ -1,0 +1,4397 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3623878,
+          50.0615572
+        ]
+      },
+      "properties": {
+        "name": "Aquatics Prague No1, z.s.",
+        "address": "Naskové 1335/1, Praha, 15000",
+        "phone": "602665554.0",
+        "email": "gabriela@aquaticsprague.cz",
+        "web": "www.aquaticsprague.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4751511,
+          50.1081641
+        ]
+      },
+      "properties": {
+        "name": "Activity Club, z.s.",
+        "address": "U libeňského pivovaru 1077/13, Praha, 180 00",
+        "phone": "603591017.0",
+        "email": "ondrejsimacek@activityclub.cz; michalspurny@activityclub.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6845388,
+          49.2788149
+        ]
+      },
+      "properties": {
+        "name": "ALDAgo TEAM z.s.",
+        "address": "Zlínská 394, Fryšták, 76316",
+        "phone": "",
+        "email": "aldago@aldagoteam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6398877,
+          49.36481819999999
+        ]
+      },
+      "properties": {
+        "name": "TJ Asociace sportovních klubů Blansko, z.s.",
+        "address": "Mlýnská 1297/19, Blansko, 678 01",
+        "phone": "",
+        "email": "plavani.blansko@email.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4238295,
+          50.0013798
+        ]
+      },
+      "properties": {
+        "name": "Akron Sports Club z.s.",
+        "address": "Urbánkova 866/5, Praha, 14300",
+        "phone": "606638728.0",
+        "email": "marek.pichal73@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1391779,
+          50.1447466
+        ]
+      },
+      "properties": {
+        "name": "AQUA Poděbrady, z.s.",
+        "address": "U Bažantnice 1258/17, Poděbrady, 29001",
+        "phone": "",
+        "email": "petra@sri.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1583808,
+          49.95049909999999
+        ]
+      },
+      "properties": {
+        "name": "Aquasport Vysoké Mýto, z. s.",
+        "address": "Husova 117, Vysoké Mýto, 56601",
+        "phone": "604528545.0",
+        "email": "bodie.sraut@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8906321,
+          50.2378313
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub AquaViva, z.s.",
+        "address": "Úvalská 607/8, Karlovy Vary, 36001",
+        "phone": "",
+        "email": "a.viva@email.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4332043,
+          50.10043899999999
+        ]
+      },
+      "properties": {
+        "name": "Aquamen Prague, z.s.",
+        "address": "Dukelských hrdinů 696/43, Praha, 17000",
+        "phone": "",
+        "email": "info@aquamen.eu",
+        "web": "www.aquamen.eu",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9124147,
+          50.4262873
+        ]
+      },
+      "properties": {
+        "name": "TJ Auto Škoda Mladá Boleslav, z.s.",
+        "address": "U stadionu 1322, Mladá Boleslav, 293 01",
+        "phone": "604854272.0",
+        "email": "lenkacib@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2577519,
+          49.7797254
+        ]
+      },
+      "properties": {
+        "name": "Baby centrum Delfínek, z.s.",
+        "address": "Alberta Kučery 1197/16, Ostrava, 700 30",
+        "phone": "604556037.0",
+        "email": "tomas.lukasik@czechswimming.cz; tomas.lukasik@bcdelfinek.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6488426,
+          50.17343839999999
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Baník Sokolov, z.s.",
+        "address": "Sportovní 2024, Sokolov, 356 01",
+        "phone": "",
+        "email": "vendulka.maxova@nemocnicesokolov.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1656836,
+          50.7209365
+        ]
+      },
+      "properties": {
+        "name": "Tělovýchovná jednota Bižuterie, z.s.",
+        "address": "Pražská 4200/20, Jablonec nad Nisou, 466 02",
+        "phone": "602448986.0",
+        "email": "jan.grus@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.481676,
+          50.08023499999999
+        ]
+      },
+      "properties": {
+        "name": "Tělovýchovná jednota Bohemians Praha",
+        "address": "Izraelská 3160/6, Praha, 10000",
+        "phone": "777852196.0",
+        "email": "jan.srb@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0126793,
+          50.6657681
+        ]
+      },
+      "properties": {
+        "name": "PK Chemička Ústí nad Labem z.s.",
+        "address": "Černá cesta 941/2, Ústí nad Labem, 40001",
+        "phone": "",
+        "email": "chuplavani@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3022037,
+          49.8417958
+        ]
+      },
+      "properties": {
+        "name": "Cesta životem bez bariér, z.s.",
+        "address": "Paběnice 75, Paběnice, 28543",
+        "phone": "",
+        "email": "cestazivotembb@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8094129,
+          48.7979989
+        ]
+      },
+      "properties": {
+        "name": "Klub sportovního plavání \"DELFÍN\" Břeclav, z.s.",
+        "address": "Slovácká 732, Lednice, 69144",
+        "phone": "777810984.0",
+        "email": "kspdelfinbreclav@gmail.com",
+        "web": "www.delfin-breclav.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3632466,
+          50.4411928
+        ]
+      },
+      "properties": {
+        "name": "Sportovní plavecký klub - Delfín Jičín, z.s.",
+        "address": "Revoluční 863, Jičín, 506 01",
+        "phone": "",
+        "email": "prostrednik@muzeum-turnov.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1599163,
+          50.4090334
+        ]
+      },
+      "properties": {
+        "name": "TJ Delfín Náchod, z.s.",
+        "address": "Pražská 178, Náchod, 54701",
+        "phone": "",
+        "email": "predsedaDeNa@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4148787,
+          50.0215298
+        ]
+      },
+      "properties": {
+        "name": "DELFÍN Praha, z.s.",
+        "address": "Pod lysinami 483/22, Praha 4, 147 00",
+        "phone": "",
+        "email": "dita@sbsound.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2252413,
+          49.4244394
+        ]
+      },
+      "properties": {
+        "name": "Plavecký oddíl DELFÍN Pelhřimov z.s.",
+        "address": "Nádražní 1536, Pelhřimov, 393 01",
+        "phone": "602481441.0",
+        "email": "ps.delfin@tiscali.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3878652,
+          50.1106861
+        ]
+      },
+      "properties": {
+        "name": "Tělovýchovná jednota Dukla Praha, z.s.",
+        "address": "Na Julisce 28/2, Praha, 160 00",
+        "phone": "720659401.0",
+        "email": "jakub.svoboda@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5619098,
+          49.4058538
+        ]
+      },
+      "properties": {
+        "name": "Elitavers - Sportovní akademie Jihlava, z.s.",
+        "address": "Poláčkova 5107/10, Jihlava, 58601",
+        "phone": "",
+        "email": "libor.kuchyna@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1220954,
+          50.1342766
+        ]
+      },
+      "properties": {
+        "name": "Plavání ELMA Kladno z.s.",
+        "address": "U výtopny 1975, Kladno, 27201",
+        "phone": "",
+        "email": "mates.posmourny@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4487754,
+          50.0939317
+        ]
+      },
+      "properties": {
+        "name": "Elab team, z.s.",
+        "address": "Pobřežní 249/46, Praha, 18600",
+        "phone": "720989440.0",
+        "email": "elt@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8486151,
+          50.2155557
+        ]
+      },
+      "properties": {
+        "name": "Plavecké středisko Zéva, z.s.",
+        "address": "Uhelná 868/3, Hradec Králové, 500 03",
+        "phone": "",
+        "email": "marekovar0@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4720695,
+          49.0719894
+        ]
+      },
+      "properties": {
+        "name": "Elite swim, z.s.",
+        "address": "Slovácká 1717, Uherské Hradiště, 68601",
+        "phone": "",
+        "email": "info@eliteswim.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3912355,
+          50.1107026
+        ]
+      },
+      "properties": {
+        "name": "VSK ČVUT Praha z.s.",
+        "address": "Pod Juliskou 1805/4, Praha, 160 00",
+        "phone": "",
+        "email": "antonin.ludvik@cvut.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9016527,
+          49.2569649
+        ]
+      },
+      "properties": {
+        "name": "Tělovýchovná jednota Fezko Strakonice, z.s.",
+        "address": "Pod Hradem 128, Strakonice, 386 01",
+        "phone": "",
+        "email": "jungradek@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6274105,
+          49.2239813
+        ]
+      },
+      "properties": {
+        "name": "FAKULTNÍ KLUB SPORTOVNÍHO PLAVÁNÍ BRNO, z.s.",
+        "address": "Heleny Malířové 161/8, Brno, 638 00",
+        "phone": "",
+        "email": "josef.kotlik@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7326715,
+          48.94388559999999
+        ]
+      },
+      "properties": {
+        "name": "Fakultní klub Brno, z.s.",
+        "address": "Brněnská 526/50, Hustopeče, 693014",
+        "phone": "",
+        "email": "jan@popnet.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6221227,
+          49.18347079999999
+        ]
+      },
+      "properties": {
+        "name": "FIDES Brno, z.s.",
+        "address": "Dornych 129/57, Brno, 617 00",
+        "phone": "",
+        "email": "petr.mihola@seznam.cz",
+        "web": "www.otuzilci-brno.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1482214,
+          49.48085409999999
+        ]
+      },
+      "properties": {
+        "name": "DZP Haná Prostějov, z.s.",
+        "address": "Vrahovická 2527/5, Prostějov, 79601",
+        "phone": "",
+        "email": "dzphana@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4030441,
+          50.0303303
+        ]
+      },
+      "properties": {
+        "name": "I. plavecký klub otužilců Praha, z.s.",
+        "address": "U kempinku 1801/2, Praha, 147 00",
+        "phone": "606754905.0",
+        "email": "tomas-prokop@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5713528,
+          49.402126
+        ]
+      },
+      "properties": {
+        "name": "Jihlavský plavecký klub , z.s.",
+        "address": "Evžena Rošického 2684/6, Jihlava, 58601",
+        "phone": "",
+        "email": "jpk@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9238348,
+          49.4421037
+        ]
+      },
+      "properties": {
+        "name": "Sportovní klub Jiskra Domažlice, z. s.",
+        "address": "Fügnerova 647, Domažlice, 34401",
+        "phone": "",
+        "email": "jido@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.081252,
+          50.143828
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub KARP z. s.",
+        "address": "Rog. Houdka 2223, Kladno, 27201",
+        "phone": "",
+        "email": "karp-slany@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.473947,
+          48.9807131
+        ]
+      },
+      "properties": {
+        "name": "Tělovýchovná jednota KOH-I-NOOR České Budějovice, z.s.",
+        "address": "Skuherského 1485/12, České Budějovice, 370 01",
+        "phone": "",
+        "email": "eva.smausova@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.52178,
+          50.3210267
+        ]
+      },
+      "properties": {
+        "name": "Kome Klub Kraslice, z. s.",
+        "address": "U nemocnice 1979, Kraslice, 35801",
+        "phone": "",
+        "email": "komeklub@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8872748,
+          49.2053768
+        ]
+      },
+      "properties": {
+        "name": "Klub ledních medvědů Třebíč z.s.",
+        "address": "Čeloudova 1117/56, Třebíč, 67401",
+        "phone": "",
+        "email": "zdezdemik@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8887964,
+          50.689623
+        ]
+      },
+      "properties": {
+        "name": "Klub KL Sport Teplice z.s.",
+        "address": "Višňový sad 350, Krupka, 41742",
+        "phone": "",
+        "email": "klub.klste@email.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.097756,
+          50.14647129999999
+        ]
+      },
+      "properties": {
+        "name": "KPK KLADNO z.s.",
+        "address": "Havířská 1651, Kladno, 27201",
+        "phone": "",
+        "email": "info@iceswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4800247,
+          50.35956359999999
+        ]
+      },
+      "properties": {
+        "name": "Klub plavců mělnických, z.s.",
+        "address": "Klášterní 648, Mělník, 276 01",
+        "phone": "605148437.0",
+        "email": "kpmel@kpmel.cz",
+        "web": "kpmel.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8771219,
+          49.9468514
+        ]
+      },
+      "properties": {
+        "name": "Klub plaveckých sportů Opava, z.s.",
+        "address": "Kotršova 172/25, Opava, 747 07",
+        "phone": "",
+        "email": "kpsop@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1831408,
+          49.8330722
+        ]
+      },
+      "properties": {
+        "name": "Klub plaveckých sportů Ostrava, z.s.",
+        "address": "Gen. Sochora 1378/10, Ostrava, 708 00",
+        "phone": "733620280.0",
+        "email": "jan.pala@kpsostrava.cz",
+        "web": "www.kpsostrava.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7363857,
+          50.1003328
+        ]
+      },
+      "properties": {
+        "name": "Klub plaveckých sportů Rakovník, z.s.",
+        "address": "nábř. Dr. Beneše 2602, Rakovník, 269 01",
+        "phone": "",
+        "email": "michal.beranek@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9970832,
+          49.28235129999999
+        ]
+      },
+      "properties": {
+        "name": "Klub plaveckých sportů Vyškov, z.s.",
+        "address": "Sportovní 752/5, Vyškov, 68201",
+        "phone": "",
+        "email": "kpsvy@centrum.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9216733,
+          50.56237789999999
+        ]
+      },
+      "properties": {
+        "name": "Krajský svaz ČSPS - Královéhradecký kraj",
+        "address": "Na Lukách 432, Trutnov, 54101",
+        "phone": "",
+        "email": "tomas.bren@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4748768,
+          48.9807393
+        ]
+      },
+      "properties": {
+        "name": "Krajský svaz ČSPS - Jihočeský kraj",
+        "address": "Skuherského 1478/14, České Budějovice, 37001",
+        "phone": "",
+        "email": "eva.smausova@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6689366,
+          49.0998465
+        ]
+      },
+      "properties": {
+        "name": "Krajský svaz ČSPS - Jihomoravský kraj",
+        "address": "Otmarov 23, 66457",
+        "phone": "",
+        "email": "petr.vodak@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0514548,
+          50.7626381
+        ]
+      },
+      "properties": {
+        "name": "Krajský svaz ČSPS - Liberecký kraj",
+        "address": "Mrštíkova 399/2a, Liberec, 46007",
+        "phone": "",
+        "email": "petr.korinek@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1454,
+          49.5970667
+        ]
+      },
+      "properties": {
+        "name": "Krajský svaz ČSPS - Moravskoslezský kraj",
+        "address": "Sokolovská 394/1, Kopřivnice, 74221",
+        "phone": "",
+        "email": "mojmir.axman@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3792257,
+          49.7834677
+        ]
+      },
+      "properties": {
+        "name": "Klub sportovních otužilců Plzeň, z.s.",
+        "address": "Tachovská 1372/39, Plzeň, 323 25",
+        "phone": "",
+        "email": "pavel.vituj@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.226422,
+          49.59039569999999
+        ]
+      },
+      "properties": {
+        "name": "Krajský svaz ČSPS - Olomoucký kraj",
+        "address": "Jílová 535/14, Olomouc, 77900",
+        "phone": "",
+        "email": "dusan.viktorjenik@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6046686,
+          49.7893037
+        ]
+      },
+      "properties": {
+        "name": "Krajský svaz ČSPS - Plzeňský kraj",
+        "address": "Osek 421, 33821",
+        "phone": "",
+        "email": "jan.bazil@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0865638,
+          50.1359343
+        ]
+      },
+      "properties": {
+        "name": "TJ LARS Kladno z.s.",
+        "address": "Sportovců 816, Kladno, 272 04",
+        "phone": "",
+        "email": "peta.landova@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7743431,
+          50.0335513
+        ]
+      },
+      "properties": {
+        "name": "Klub sportovního plavání Pardubice, z.s.",
+        "address": "Sladkovského 669, Pardubice, 530 02",
+        "phone": "",
+        "email": "ksppce@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.78106,
+          50.0290387
+        ]
+      },
+      "properties": {
+        "name": "Krajský svaz ČSPS - Pardubický kraj",
+        "address": "K Vinici 1901, Pardubice, 53002",
+        "phone": "",
+        "email": "brigita.roztocilova@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4471631,
+          50.0492441
+        ]
+      },
+      "properties": {
+        "name": "Pražský svaz Českého svazu plaveckých sportů",
+        "address": "Hanusova 347/16, Praha, 14000",
+        "phone": "",
+        "email": "jan.srb@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4782527,
+          50.0686147
+        ]
+      },
+      "properties": {
+        "name": "SK Slavia Praha  - skoky do vody z.s.",
+        "address": "Vladivostocká 1460/10, Praha, 10000",
+        "phone": "",
+        "email": "hana.novotna@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.253148,
+          50.0295397
+        ]
+      },
+      "properties": {
+        "name": "Krajský svaz ČSPS - Středočeský kraj",
+        "address": "Tři Dvory 365, 28002",
+        "phone": "",
+        "email": "miloslav.lhotka@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6189117,
+          50.5992936
+        ]
+      },
+      "properties": {
+        "name": "Krajský svaz ČSPS - Ústecký kraj",
+        "address": "Jiráskova 413, Litvínov, 43601",
+        "phone": "",
+        "email": "gabriela.soukupova@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6006315,
+          49.4072252
+        ]
+      },
+      "properties": {
+        "name": "Krajský svaz ČSPS - Kraj Vysočina",
+        "address": "Helenínská 2873/12, Jihlava, 58601",
+        "phone": "",
+        "email": "petr.svacinka@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5375237,
+          49.2090367
+        ]
+      },
+      "properties": {
+        "name": "Krajský svaz ČSPS - Zlínský kraj",
+        "address": "Na Uličce 1362, Otrokovice, 76502",
+        "phone": "",
+        "email": "zdenek.oharek@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7824905,
+          50.0337786
+        ]
+      },
+      "properties": {
+        "name": "Klub vodních sportů Pardubice, z.s.",
+        "address": "Jiráskova 2664, Pardubice, 53002",
+        "phone": "",
+        "email": "kvs.pa@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3692853,
+          49.7381949
+        ]
+      },
+      "properties": {
+        "name": "Klub vodních sportů Plzeň",
+        "address": "Hřímalého 567/5, Plzeň, 301 00",
+        "phone": "",
+        "email": "lukasvondra@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2200373,
+          50.2957374
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Kajman Dobruška, z.s.",
+        "address": "Bačetín 122, 51801",
+        "phone": "",
+        "email": "jddolecek@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5518657,
+          49.8634281
+        ]
+      },
+      "properties": {
+        "name": "Kosatky Karviná-oddíl plavání, z.s.",
+        "address": "Leonovova 1797/1, Karviná, 733 01",
+        "phone": "",
+        "email": "kosatky@kosatkykarvina.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8046119,
+          49.8444971
+        ]
+      },
+      "properties": {
+        "name": "Klub otužilců Tábor , z.s.",
+        "address": "Nasavrky 39, NASAVRKY, 391 31",
+        "phone": "",
+        "email": "trieb.petr@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6069554,
+          49.2144357
+        ]
+      },
+      "properties": {
+        "name": "Klub plaveckých sportů policie Kometa Brno z. s.",
+        "address": "Sportovní 486/4, Brno, 602 00",
+        "phone": "541247731.0",
+        "email": "plavani@kometaplavani.cz",
+        "web": "www.kometaplavani.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1520817,
+          49.590573
+        ]
+      },
+      "properties": {
+        "name": "Sportovní klub Kopřivnice, z.s.",
+        "address": "Husova 1340/9, Kopřivnice, 74221",
+        "phone": "731735458.0",
+        "email": "skkopr@seznam.cz",
+        "web": "www.skkoprivnice.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4663507,
+          48.981999
+        ]
+      },
+      "properties": {
+        "name": "České Budějovice z.s - spolek pro volnočacové aktivity, rehabilitaci a sport bez bariér",
+        "address": "Kubatova 1835/5, České Budějovice, 37004",
+        "phone": "",
+        "email": "janousek@k-cb.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3506427,
+          49.66978450000001
+        ]
+      },
+      "properties": {
+        "name": "Lašský sportovní klub Frýdek-Místek, z.s.",
+        "address": "Josefa Suka 1840, Frýdek-Místek, 738 01",
+        "phone": "",
+        "email": "gazda.pavel@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8866684,
+          49.2208576
+        ]
+      },
+      "properties": {
+        "name": "Plavecký oddíl Laguna Třebíč z.s.",
+        "address": "Mládežnická 1096, Třebíč, 674 01",
+        "phone": "",
+        "email": "radkabartova19@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4466349,
+          50.01104429999999
+        ]
+      },
+      "properties": {
+        "name": "LACHMÁNEK z.s.",
+        "address": "K lesu 345/14, Praha 4, 14200",
+        "phone": "776291156.0",
+        "email": "ondra@lachmanek.cz",
+        "web": "www.lachmanek.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1514803,
+          49.30449480000001
+        ]
+      },
+      "properties": {
+        "name": "Ledoborci Písek, z.s.",
+        "address": "Husovo nám. 579/1, Písek, 39701",
+        "phone": "777606631.0",
+        "email": "info@ledoborcipisek.cz",
+        "web": "https://www.ledoborcipisek.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6693668,
+          49.723055
+        ]
+      },
+      "properties": {
+        "name": "edu solution z.s.",
+        "address": "Soukenická 1849, Chotěboř, 58301",
+        "phone": "",
+        "email": "edusolutionzs@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0718126,
+          49.9601434
+        ]
+      },
+      "properties": {
+        "name": "TJ LOKOMOTIVA BEROUN z. s.",
+        "address": "Tyršova 85, Beroun, 266 01",
+        "phone": "",
+        "email": "plavani.pokorna@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0364891,
+          50.1885554
+        ]
+      },
+      "properties": {
+        "name": "TJ Lokomotiva Nymburk z.s.",
+        "address": "Boleslavská třída 319/11, Nymburk, 288 02",
+        "phone": "",
+        "email": "irehakova1@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9175101,
+          50.5642566
+        ]
+      },
+      "properties": {
+        "name": "TJ LOKOMOTIVA TRUTNOV, z.s.",
+        "address": "Národní 199, Trutnov, 541 01",
+        "phone": "",
+        "email": "bren@lokotrutnov.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.534602,
+          50.6802521
+        ]
+      },
+      "properties": {
+        "name": "TJ Lokomotiva Česká Lípa, z.s.",
+        "address": "Mánesova 1580/17, Česká Lípa, 470 01",
+        "phone": "",
+        "email": "safra.b@seznam.cz; tjloko@loko-cl.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.441157,
+          49.9143323
+        ]
+      },
+      "properties": {
+        "name": "Tělovýchovná jednota Lokomotiva,z.s. Česká Třebová",
+        "address": "Husova 22, Česká Třebová, 560 02",
+        "phone": "",
+        "email": "petrahajkovic@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8936667,
+          49.3612393
+        ]
+      },
+      "properties": {
+        "name": "MCT CZ  z.s.",
+        "address": "Nový Spálenec 25, Nový Spálenec, 345 32",
+        "phone": "",
+        "email": "mct.cz@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8628767,
+          49.8763486
+        ]
+      },
+      "properties": {
+        "name": "Masters plavecký klub Zábřeh, z.s.",
+        "address": "Na Vyhlídce 1251/29, Zábřeh, 78901",
+        "phone": "",
+        "email": "petr.horvat@tiscali.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0149711,
+          50.66587879999999
+        ]
+      },
+      "properties": {
+        "name": "Městský plavecký klub Ústí nad Labem z.s.",
+        "address": "Klíšská 892/90a, Ústí nad Labem, 400 01",
+        "phone": "",
+        "email": "mpku@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4343426,
+          50.1019896
+        ]
+      },
+      "properties": {
+        "name": "MTM ACADEMY, z.s.",
+        "address": "Janovského 195/28, Praha, 17000",
+        "phone": "",
+        "email": "plavani@mtmacademy.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0871391,
+          50.135484
+        ]
+      },
+      "properties": {
+        "name": "Sportovní klub Medúza Kladno,z.s.",
+        "address": "Sportovců 818, Kladno, 27204",
+        "phone": "",
+        "email": "meduzasynchro@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4262792,
+          49.8670131
+        ]
+      },
+      "properties": {
+        "name": "Klub plaveckých sportů Mládí Orlová, z. s.",
+        "address": "V.Martínka 712 712, Orlová, 735 14",
+        "phone": "",
+        "email": "viktor.pavelka@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3906249,
+          50.0582085
+        ]
+      },
+      "properties": {
+        "name": "Sportovní klub Motorlet Praha, spolek",
+        "address": "Radlická 298/105, Praha, 150 00",
+        "phone": "",
+        "email": "vasilis.teodoridis@skmop.cz",
+        "web": "https://www.skmop.cz/",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6020192,
+          49.185015
+        ]
+      },
+      "properties": {
+        "name": "Městský sportovní klub Brno, z.s.",
+        "address": "Křídlovická 911/34, Brno, 603 00",
+        "phone": "605255094.0",
+        "email": "hajek@starezsport.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5185962,
+          50.258425
+        ]
+      },
+      "properties": {
+        "name": "Neratovický Plavecký Klub, z.s.",
+        "address": "Mládežnická 435/13, Neratovice, 277 11",
+        "phone": "",
+        "email": "vesely.plavani@email.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4125528,
+          50.0368509
+        ]
+      },
+      "properties": {
+        "name": "NEPTUN MASTERS - plavecký klub, z.s.",
+        "address": "Mezivrší 213/1, Praha 4, 147 00",
+        "phone": "",
+        "email": "info@neptunmasters.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.535623,
+          50.104796
+        ]
+      },
+      "properties": {
+        "name": "Sportovní klub NEPTUN, z.s.",
+        "address": "Hloubětínská 80/32, Praha, 198 00",
+        "phone": "777556515.0",
+        "email": "synchroneptun@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4711733,
+          48.9874677
+        ]
+      },
+      "properties": {
+        "name": "Otužilci \"Promrzlé pyjavice\" České Budějovice",
+        "address": "Zachariášova 766/1, České Budějovice, 370 04",
+        "phone": "",
+        "email": "marketatulen@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1293898,
+          48.8489884
+        ]
+      },
+      "properties": {
+        "name": "ODDÍL SPORTOVNÍHO PLAVÁNÍ HODONÍN, z.s.",
+        "address": "Masarykovo nám. 120/22, Hodonín, 69501",
+        "phone": "",
+        "email": "ji.benes71@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9492555,
+          49.7164187
+        ]
+      },
+      "properties": {
+        "name": "TJ SLAVOJ Obecnice, z.s. -Obecnický Klub Otužilců",
+        "address": "Obecnice 159, Obecnice, 26221",
+        "phone": "",
+        "email": "sekretariat@obekluotu.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5794762,
+          49.32941
+        ]
+      },
+      "properties": {
+        "name": "Orel jednota Holešov",
+        "address": "Plačkov 519, Holešov, 769 01",
+        "phone": "",
+        "email": "lenka@karhan.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4082912,
+          50.109409
+        ]
+      },
+      "properties": {
+        "name": "Policejní sportovní klub OLYMP Praha, z.s.",
+        "address": "Za Císařským mlýnem 1063/5, Praha, 170 06",
+        "phone": "733676890.0",
+        "email": "davidholy@post.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6288415,
+          50.5005198
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Otužilci Most z.s.",
+        "address": "Jižní 3177, Most, 43401",
+        "phone": "",
+        "email": "tombab@centrum.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.440458,
+          49.90924829999999
+        ]
+      },
+      "properties": {
+        "name": "Otužilci Česká Třebová, z.s.",
+        "address": "Dr. E. Beneše 594, Česká Třebová, 56002",
+        "phone": "737127225.0",
+        "email": "dana.e.66@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6140985,
+          50.61244869999999
+        ]
+      },
+      "properties": {
+        "name": "Plavecká akademie Vrchlabí, z.s.",
+        "address": "Revoluční 1278, Vrchlabí, 54301",
+        "phone": "",
+        "email": "info@plavecka-akademie.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3562006,
+          49.7770106
+        ]
+      },
+      "properties": {
+        "name": "PLAVECKÁ AKADEMIE ZBŮCH z.s.",
+        "address": "Krašovská 1732/22, Plzeň, 32300",
+        "phone": "",
+        "email": "vaclav.cermak@volny.cz",
+        "web": "www.pazbuch.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3351345,
+          49.9190653
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Bohumín, z. s.",
+        "address": "Na Koutě 400, Bohumín, 735 81",
+        "phone": "",
+        "email": "plavanibohumin@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5852242,
+          49.2122669
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Brno z.s.",
+        "address": "Zborovská 2049/27, Brno, 61600",
+        "phone": "777198375.0",
+        "email": "radvitek@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8459759,
+          50.36303400000001
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Bílina, spolek",
+        "address": "Tylova 91, Černčice, 439 01",
+        "phone": "",
+        "email": "jankaprokesova@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6436356,
+          49.8192502
+        ]
+      },
+      "properties": {
+        "name": "Plavecký Klub Chrudimští Kati z. s.",
+        "address": "Hoješín 385, Seč, 53807",
+        "phone": "",
+        "email": "",
+        "web": "plavanichrudim.com",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7885162,
+          49.9501309
+        ]
+      },
+      "properties": {
+        "name": "Dům dětí a mládeže Chrudim",
+        "address": "Palackého třída 418, Chrudim, 53701",
+        "phone": "",
+        "email": "sedlakova@ddm-chrudim.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2259765,
+          50.7795634
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Děčín z. s.",
+        "address": "Riegrova 785/60, Děčín, 40502",
+        "phone": "739273316.0",
+        "email": "plavanidecin@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2101018,
+          49.54796289999999
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Frenštát pod Radhoštěm z.s.",
+        "address": "Dolní 482, Frenštát pod Radhoštěm, 74401",
+        "phone": "",
+        "email": "balacova@plavanifrenstat.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.828739,
+          50.2143696
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Hradec Králové z.s.",
+        "address": "Eliščino nábřeží 842/3, Hradec Králové, 500 03",
+        "phone": "604575300.0",
+        "email": "olina.blazek@seznam.cz",
+        "web": "www.pkhk.eu",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4208729,
+          49.8022831
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Havířov z.s.",
+        "address": "Zvonková 463/3, Havířov, 73601",
+        "phone": "",
+        "email": "johana.z@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7326715,
+          48.94388559999999
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Hustopeče z. s.",
+        "address": "Brněnská 526/50, Hustopeče, 69301",
+        "phone": "",
+        "email": "pk.hustopece@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.019612,
+          49.1428762
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Jindřichův Hradec, z.s.",
+        "address": "sídliště Vajgar 865, Jindřichův Hradec, 377 01",
+        "phone": "",
+        "email": "pkjh@pkjh.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1468232,
+          50.2293327
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Jeseník, spolek",
+        "address": "Lipová-lázně 741, Lipová-lázně, 790 61",
+        "phone": "",
+        "email": "martinakubankova@email.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6374419,
+          49.2054244
+        ]
+      },
+      "properties": {
+        "name": "Klub plavecké školy Krokodýl Brno, z.s.",
+        "address": "Hradilova 107/11, Brno, 615 00",
+        "phone": "725688302.0",
+        "email": "ucetni@plavanikrokodyl.cz",
+        "web": "www.plavanikrokodyl.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6897461,
+          50.0954724
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Krnov, zapsaný spolek",
+        "address": "Puškinova 597/41, Krnov, 79401",
+        "phone": "",
+        "email": "mruzekm@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5335934,
+          49.3099142
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Kuřim, z. s.",
+        "address": "Sportovní 1082/1, Kuřim, 664 34",
+        "phone": "",
+        "email": "gabina@peringer.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0711344,
+          50.7643244
+        ]
+      },
+      "properties": {
+        "name": "Sportovní plavecký klub Slavia Liberec, z.s.",
+        "address": "Jablonecká 333/23a, Liberec, 46001",
+        "phone": "",
+        "email": "petr.korinek@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3059212,
+          49.8778093
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Litomyšl, z.s.",
+        "address": "Kornická 137, Litomyšl, 57001",
+        "phone": "",
+        "email": "pklil@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1387851,
+          50.5384167
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Litoměřice, z. s.",
+        "address": "Daliborova 2078/7, Litoměřice, 408 01",
+        "phone": "",
+        "email": "a.delacerna@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.058216,
+          50.5155758
+        ]
+      },
+      "properties": {
+        "name": "Asociace sportovních klubů Lovosice z.s.",
+        "address": "U Stadionu 1022/2, Lovosice, 410 02",
+        "phone": "735850737.0",
+        "email": "marek.helis@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0525885,
+          50.477024
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub PROSEN Louny, z.s.",
+        "address": "Zahradní  2476 2476, Louny 1, 440 01",
+        "phone": "",
+        "email": "prosen@atlas.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6189117,
+          50.5992936
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Litvínov, z.s.",
+        "address": "Jiráskova 413, Litvínov, 43601",
+        "phone": "",
+        "email": "plavanichpl.litvinov@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6987634,
+          49.9670936
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Mariánské Lázně, z. s.",
+        "address": "Tyršova 617/6, Mariánské Lázně, 353 01",
+        "phone": "",
+        "email": "info@pkml.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6472195,
+          50.495886
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Most, z.s.",
+        "address": "Topolová 801, Most, 43401",
+        "phone": "",
+        "email": "kominekrenne@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9150734,
+          49.7772235
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Mohelnice, z.s.",
+        "address": "Třebovská 312/19 312/19, Mohelnice, 78985",
+        "phone": "724500640.0",
+        "email": "miroslav.krmela@volny.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5507214,
+          50.6913971
+        ]
+      },
+      "properties": {
+        "name": "Seals Masters - Plavecký klub Česká Lípa, z.s.",
+        "address": "Vladimírská 2512, Česká lípa, 470 01",
+        "phone": "",
+        "email": "jan.nykl@volny.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4843021,
+          50.3516373
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Mělník z. s.",
+        "address": "Pivovarská 3183, Mělník, 27601",
+        "phone": "",
+        "email": "plavani.melnik@email.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0128826,
+          49.5984548
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Nový Jičín, z. s.",
+        "address": "Novosady 914/10, Nový Jičín, 741 01",
+        "phone": "734424649.0",
+        "email": "jakub.minar@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0296332,
+          50.18656559999999
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Nymburk,  z.s.",
+        "address": "Dědinova 1921, Nymburk, 288 02",
+        "phone": "",
+        "email": "pknymburk@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7824905,
+          50.0337786
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Pardubice, z.s.",
+        "address": "Jiráskova 2664, Pardubice, 530 02",
+        "phone": "",
+        "email": "brigita.stloukalova@czechswimming.cz",
+        "web": "www.pkpar.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1454311,
+          49.3057708
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Písek, z.s.",
+        "address": "Ostrovní 2257, Písek, 397 01",
+        "phone": "777885779.0",
+        "email": "solc@aksolc.cz",
+        "web": "www.pkpi.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0025457,
+          49.6787059
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Příbram, z. s.",
+        "address": "Legionářů 378, Příbram, 261 01",
+        "phone": "",
+        "email": "k.svaton@centrum.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2495394,
+          50.4198731
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Roudnice nad Labem, z.s.",
+        "address": "Libušina 1484, Roudnice nad Labem, 41301",
+        "phone": "",
+        "email": "ivan.nesnera@centrum.cz",
+        "web": "www.pkroudnice.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3813017,
+          50.1351328
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Rychnov nad Kněžnou z. s.",
+        "address": "Slatina nad Zdobnicí 303, Slatina nad Zdobnicí, 51756",
+        "phone": "",
+        "email": "adamkrehky@plavanirychnov.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7305147,
+          50.6597208
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Stráž pod Ralskem, z.s.",
+        "address": "Vranovská 271, Mimoň, 47124",
+        "phone": "",
+        "email": "skalnikj@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4626409,
+          49.7510564
+        ]
+      },
+      "properties": {
+        "name": "TJ Svitavy, z. s.",
+        "address": "U Stadionu 937/17, Svitavy, 568 02",
+        "phone": "",
+        "email": "bedrich.fryza@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5490296,
+          50.6747782
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Sport Česká Lípa, z.s.",
+        "address": "Vachkova 3252, Česká Lípa, 47001",
+        "phone": "724182858.0",
+        "email": "jan.rum@email.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6276357,
+          49.7952153
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Tachov, z.s.",
+        "address": "Pobřežní 1868, Tachov, 34701",
+        "phone": "604746440.0",
+        "email": "plavanitachov@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5834816,
+          49.7203126
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Třinec z. s.",
+        "address": "Pod Zvonek 355, Český Těšín, 73701",
+        "phone": "",
+        "email": "rene.kotzian@plavani-trinec.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1583808,
+          49.95049909999999
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Vysoké Mýto, z.s.",
+        "address": "Husova 117, Vysoké Mýto, 566 01",
+        "phone": "",
+        "email": "jiri.masek@tiscali.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9842673,
+          49.3386333
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Vsetín  z.s.",
+        "address": "Záviše Kalandry 1095, Vsetín, 755 01",
+        "phone": "",
+        "email": "tjvs@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0561563,
+          48.8464135
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Znojmo z.s.",
+        "address": "Jindřicha Hořejšího 3425/24, Znojmo, 66902",
+        "phone": "777535302.0",
+        "email": "info@pkznojmo.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8783212,
+          49.8786744
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Zábřeh, z.s.",
+        "address": "Křížkovského 974/3, Zábřeh, 789 01",
+        "phone": "",
+        "email": "sipjir73@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5238801,
+          50.6917683
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Česká Lípa, z. s.",
+        "address": "Heroutova 1737/32, Česká Lípa, 470 01",
+        "phone": "",
+        "email": "pkcl@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3823977,
+          49.90523959999999
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Pandora, z.s.",
+        "address": "Sluneční 1912, Čáslav, 286 01",
+        "phone": "",
+        "email": "pkpandora@email.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6620646,
+          49.99499480000001
+        ]
+      },
+      "properties": {
+        "name": "sportovní klub Sporťák z.s.",
+        "address": "Mánesova 2530/3a, Říčany, 251 01",
+        "phone": "",
+        "email": "plaf.ricany@gmail.com",
+        "web": "shorturl.at/yGMR8",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4461462,
+          49.452165
+        ]
+      },
+      "properties": {
+        "name": "PLAVÁNÍ PŘEROV z.s.",
+        "address": "Č. Drahlovského 2316/18, Přerov, 75002",
+        "phone": "602538142.0",
+        "email": "tomas@gadas.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4691621,
+          48.9743995
+        ]
+      },
+      "properties": {
+        "name": "PLAVÁNÍ České Budějovice, z.s.",
+        "address": "Sokolský ostrov 402/4, České Budějovice, 370 01",
+        "phone": "777939932.0",
+        "email": "info@plavani-cb.cz",
+        "web": "www.plavani-cb.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3637776,
+          49.6793267
+        ]
+      },
+      "properties": {
+        "name": "Plavecký oddíl Frýdek - Místek, z.s.",
+        "address": "Novodvorská 3067, Frýdek-Místek, 738 01",
+        "phone": "",
+        "email": "info@plavanifm.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2960276,
+          50.2404388
+        ]
+      },
+      "properties": {
+        "name": "Plavecký Oddíl Kralupy z.s",
+        "address": "Čechova 548, Kralupy nad Vltavou, 278 01",
+        "phone": "",
+        "email": "pokr@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8578901,
+          50.6822521
+        ]
+      },
+      "properties": {
+        "name": "Plavecký oddíl Krupka, z.s.",
+        "address": "Teplická 400, Krupka, 41741",
+        "phone": "",
+        "email": "plaveckyoddilkrupka@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1403602,
+          50.3564691
+        ]
+      },
+      "properties": {
+        "name": "PONMM, z.s.",
+        "address": "28. října 415, Nové Město nad Metují, 54901",
+        "phone": "",
+        "email": "renata.s@svet-deti.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2825205,
+          49.7191179
+        ]
+      },
+      "properties": {
+        "name": "Plavecký oddíl Orka Polička, z.s.",
+        "address": "Hegerova 899, Polička, 572 01",
+        "phone": "728246773.0",
+        "email": "jandikovi@unet.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3904299,
+          50.07995589999999
+        ]
+      },
+      "properties": {
+        "name": "PARA PLAVÁNÍ PRAHA z.s.",
+        "address": "Vaníčkova 315/7, Praha, 16900",
+        "phone": "",
+        "email": "ppp@paraplavanipraha.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3645053,
+          50.02993650000001
+        ]
+      },
+      "properties": {
+        "name": "Prague Sharks International Swimming Club, z. s.",
+        "address": "Voskovcova 1130/30, Praha, 15200",
+        "phone": "",
+        "email": "eva.chalupova@praguesharks.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4038646,
+          49.2908149
+        ]
+      },
+      "properties": {
+        "name": "Plavecké sporty Kroměříž, z.s.",
+        "address": "Obvodová 3965/17, Kroměříž, 767 01",
+        "phone": "",
+        "email": "oharekz@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3005787,
+          49.7235775
+        ]
+      },
+      "properties": {
+        "name": "Plavecké sporty Šternberk, z.s.",
+        "address": "Puškinova 1452/13, Šternberk, 78501",
+        "phone": "",
+        "email": "lubomir.libal@volny.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6625123,
+          49.2041453
+        ]
+      },
+      "properties": {
+        "name": "Plavecký veteránský klub Brno, z.s.",
+        "address": "Velkopavlovická 4068/17, Brno, 628 00",
+        "phone": "",
+        "email": "smerdaruda@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7456437,
+          50.1566264
+        ]
+      },
+      "properties": {
+        "name": "Patriot Čelákovice, spolek",
+        "address": "Jana Kamaráda 1995, Čelákovice, 25088",
+        "phone": "",
+        "email": "dousova.allena@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0000005,
+          49.01091
+        ]
+      },
+      "properties": {
+        "name": "Plavání Prachatice, z. s.",
+        "address": "U Lipového dvora 1293, Prachatice, 38301",
+        "phone": "",
+        "email": "plavani.prachatice@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1555136,
+          50.5835983
+        ]
+      },
+      "properties": {
+        "name": "Plavem Tu,  z.s.",
+        "address": "Jana Palacha 2361, Turnov, 511 01",
+        "phone": "702156772.0",
+        "email": "kancelar@msturnov.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0912203,
+          49.470058
+        ]
+      },
+      "properties": {
+        "name": "Tělovýchovná jednota Prostějov, z.s.",
+        "address": "Anenská 936/17, Prostějov, 796 01",
+        "phone": "",
+        "email": "petr.adamec@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5842999,
+          49.61019040000001
+        ]
+      },
+      "properties": {
+        "name": "Plav. škola Beta Havlíčkův Brod",
+        "address": "U Stadionu 3000, Havlíčkův Brod, 580 010",
+        "phone": "",
+        "email": "mares.libor@worldonline.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6220493,
+          49.2507696
+        ]
+      },
+      "properties": {
+        "name": "PŠR z.s.",
+        "address": "Loučná 672/18, Brno, 644 00",
+        "phone": "",
+        "email": "kocar@galantbrno.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6942002,
+          49.775512
+        ]
+      },
+      "properties": {
+        "name": "Rybníkářky a otužilci Holoubkov, z.s.",
+        "address": "Holoubkov 93 93, Holoubkov, 33801",
+        "phone": "",
+        "email": "novakovajitka@centrum.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4318371,
+          50.0920378
+        ]
+      },
+      "properties": {
+        "name": "ROYAL plavecký klub z.s.",
+        "address": "Klimentská 1652/36, Praha, 11000",
+        "phone": "",
+        "email": "info@royalswim.eu",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3730945,
+          49.73789739999999
+        ]
+      },
+      "properties": {
+        "name": "Sportovní klub Radbuza Plzeň, z.s.",
+        "address": "Kozinova 2788/3, Plzeň, 301 00",
+        "phone": "",
+        "email": "info@skradbuza.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6392967,
+          50.3677561
+        ]
+      },
+      "properties": {
+        "name": "Sportovní zařízení města Hořice",
+        "address": "Janderova 2156, Hořice, 50801",
+        "phone": "606048131.0",
+        "email": "petr.rucker@sporthorice.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9238348,
+          49.4421037
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Rejnoci Domažlice, z.s.",
+        "address": "Fügnerova 647, Domažlice, 34401",
+        "phone": "",
+        "email": "pkrejnoci@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0426697,
+          50.1232935
+        ]
+      },
+      "properties": {
+        "name": "Swim Academy BoRa, z. s.",
+        "address": "Nová 265, Doksy, 273 64",
+        "phone": "602174613.0",
+        "email": "swimacademy@centrum.cz",
+        "web": "swimacademy.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7647068,
+          48.73836439999999
+        ]
+      },
+      "properties": {
+        "name": "Spolek pro akvabely, z.s.",
+        "address": "21. dubna 981, Valtice, 69142",
+        "phone": "",
+        "email": "ladislava.palkova@email.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4542892,
+          49.7707799
+        ]
+      },
+      "properties": {
+        "name": "SYNCHRO CLUB HAVÍŘOV, z.s.",
+        "address": "Karolíny Světlé 1360/22, Havířov, 73601",
+        "phone": "721825799.0",
+        "email": "synchro.havirov@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7824905,
+          50.0337786
+        ]
+      },
+      "properties": {
+        "name": "Sport Club Plavecký areál Pardubice, z.s.",
+        "address": "Jiráskova 2664, Pardubice, 530 02",
+        "phone": "",
+        "email": "scpap@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4461767,
+          50.1202641
+        ]
+      },
+      "properties": {
+        "name": "Sri Chinmoy Marathon Team z. s.",
+        "address": "Pod Dlážděnkou 2099/1, Praha, 182 00",
+        "phone": "605231433.0",
+        "email": "abhejali@madalbal.cz",
+        "web": "plavecka-sestihodinovka.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0094973,
+          50.6674179
+        ]
+      },
+      "properties": {
+        "name": "PK MASTERS Ústí nad Labem, z. s.",
+        "address": "U Koupaliště 575/11, Ústí nad Labem, 40001",
+        "phone": "",
+        "email": "petrluftner@gmail.com",
+        "web": "https://skspolchemie.webnode.cz/",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4325165,
+          50.0792546
+        ]
+      },
+      "properties": {
+        "name": "SK Impuls Praha, z. s.",
+        "address": "Vinohradská 920/54, Praha, 12000",
+        "phone": "",
+        "email": "mpalaty@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5852523,
+          49.2287711
+        ]
+      },
+      "properties": {
+        "name": "SK KONTAKT BRNO z. s.",
+        "address": "Srbská 2741/53, Brno, 61200",
+        "phone": "",
+        "email": "sommer@sk-kb.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2099452,
+          49.82747149999999
+        ]
+      },
+      "properties": {
+        "name": "SK KONTAKT OSTRAVA z.s.",
+        "address": "Elektrárenská 5707/10, Ostrava, 72100",
+        "phone": "",
+        "email": "bob68@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8721871,
+          50.2301183
+        ]
+      },
+      "properties": {
+        "name": "SK KONTAKT KARLOVY VARY, z.s.",
+        "address": "Smetanovy sady 1145/1, Karlovy Vary, 36001",
+        "phone": "",
+        "email": "skkv@skkv.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6676232,
+          50.1685866
+        ]
+      },
+      "properties": {
+        "name": "Krajský svaz ČSPS - Karlovarský kraj",
+        "address": "Stará Ovčárna 2155, Sokolov, 35601",
+        "phone": "",
+        "email": "vendulka.maxova@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1737447,
+          50.4213269
+        ]
+      },
+      "properties": {
+        "name": "Výtahy Náchod - Metujští tygři, z. s.",
+        "address": "Slunečná 1833, Náchod, 54701",
+        "phone": "",
+        "email": "petr.otuzilec@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6385571,
+          50.1885882
+        ]
+      },
+      "properties": {
+        "name": "Sportovní klub plavání Sokolov, z.s.",
+        "address": "Dvořákova 1078, Sokolov, 35601",
+        "phone": "",
+        "email": "sedmavlna@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4782527,
+          50.0686147
+        ]
+      },
+      "properties": {
+        "name": "Slavia Praha - plavání, z.s.",
+        "address": "Vladivostocká 1460/10, Praha, 100 00",
+        "phone": "",
+        "email": "boubinova.j@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5713528,
+          49.402126
+        ]
+      },
+      "properties": {
+        "name": "SK VODOMÍLEK, z.s.",
+        "address": "Evžena Rošického 2684/6, Jihlava, 58601",
+        "phone": "",
+        "email": "lada.korinkova@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5448598,
+          50.328049
+        ]
+      },
+      "properties": {
+        "name": "JAZZMANI ŽATEC, spolek",
+        "address": "třída Obránců míru 8, Žatec, 438 01",
+        "phone": "",
+        "email": "karas.jiri@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6970599,
+          49.2176397
+        ]
+      },
+      "properties": {
+        "name": "Swim Masters Zlín z. s.",
+        "address": "Lazy IV 3875, Zlín, 760 01",
+        "phone": "",
+        "email": "masters.zlin@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8431405,
+          50.2212513
+        ]
+      },
+      "properties": {
+        "name": "Sportovní otužilci Hradec Králové, z.s.",
+        "address": "Severní 735/3, Hradec Králové, 50003",
+        "phone": "",
+        "email": "kurina@goto.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1930111,
+          50.0229113
+        ]
+      },
+      "properties": {
+        "name": "Sportovní oddíl plavání Kolín, z.s.",
+        "address": "Bezručova 866, Kolín, 280 02",
+        "phone": "",
+        "email": "miloslav.lhotka@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6610318,
+          49.4886977
+        ]
+      },
+      "properties": {
+        "name": "Středisko volného času Boskovice , příspěvková organizace",
+        "address": "17.listopadu 153/1, Boskovice, 680 01",
+        "phone": "",
+        "email": "jenahorak@seznam.cz; svetlanahrdlickova@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4704015,
+          49.9882134
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Slavoj Bruntál, z.s.",
+        "address": "Květná 1825/25, Bruntál, 792 01",
+        "phone": "604933124.0",
+        "email": "sjbr@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5029442,
+          50.0386126
+        ]
+      },
+      "properties": {
+        "name": "Sportovní klub ASC, z.s.",
+        "address": "Mírového hnutí 2385/3, Praha, 14900",
+        "phone": "",
+        "email": "michal.andres@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.574425,
+          49.1839231
+        ]
+      },
+      "properties": {
+        "name": "Sportovní Klub policie KOMETA BRNO z.s.",
+        "address": "Bauerova 321/5, Brno, 60300",
+        "phone": "541247731.0",
+        "email": "plavani@kometaplavani.cz",
+        "web": "www.kometaplavani.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4262507,
+          50.4692539
+        ]
+      },
+      "properties": {
+        "name": "TJ Slávie Chomutov, z.s.",
+        "address": "Mostecká 5887, Chomutov, 43001",
+        "phone": "",
+        "email": "zaruba@comsense.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2746991,
+          50.3844599
+        ]
+      },
+      "properties": {
+        "name": "PK Slávie Kadaň, z.s.",
+        "address": "Na Průtahu 1855, Kadaň, 43201",
+        "phone": "",
+        "email": "mar.doks@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9110103,
+          49.9308449
+        ]
+      },
+      "properties": {
+        "name": "Tělovýchovná jednota Slezan Opava, z.s.",
+        "address": "Boženy Němcové 1/20, Opava, 746 01",
+        "phone": "",
+        "email": "slezan.op@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3979119,
+          49.7368141
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Slávia VŠ Plzeň z.s.",
+        "address": "náměstí Generála Píky 2433/42, Plzeň, 326 00",
+        "phone": "",
+        "email": "bazilova@plaveckyklubplzen.cz",
+        "web": "www.plaveckyklubplzen.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4737974,
+          49.065593
+        ]
+      },
+      "properties": {
+        "name": "TJ Slovácká Slavia Uherské Hradiště, z.s.",
+        "address": "Stonky 860, Uherské Hradiště, 686 01",
+        "phone": "",
+        "email": "pouh@email.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0474052,
+          49.8033322
+        ]
+      },
+      "properties": {
+        "name": "Slezský plavecký klub z. s.",
+        "address": "Bítov 156, Bítov, 74301",
+        "phone": "736420169.0",
+        "email": "info@swimteam.cz",
+        "web": "www.swimteam.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6185404,
+          49.7419429
+        ]
+      },
+      "properties": {
+        "name": "Tělovýchovná jednota Slavoj Český Těšín z.s.",
+        "address": "Svojsíkova 833, Český Těšín, 737 01",
+        "phone": "",
+        "email": "i.makaj@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8686286,
+          50.2295828
+        ]
+      },
+      "properties": {
+        "name": "TJ Slovan Karlovy Vary, z.s.",
+        "address": "Dr. Davida Bechera 1009/18, Karlovy Vary, 360 01",
+        "phone": "",
+        "email": "ap@email.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6225475,
+          50.9079482
+        ]
+      },
+      "properties": {
+        "name": "TJ Slovan Varnsdorf z.s.",
+        "address": "Západní 2984, Varnsdorf, 407 47",
+        "phone": "",
+        "email": "zbynek.simi@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8292841,
+          49.2723891
+        ]
+      },
+      "properties": {
+        "name": "Sokol Katovice z.s.",
+        "address": "Podskalí 455, Katovice, 38711",
+        "phone": "",
+        "email": "katovice.dzp@seznam.cz",
+        "web": "sokol-katovice-dzp.webnode.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5112278,
+          50.4933353
+        ]
+      },
+      "properties": {
+        "name": "TJ Nová Paka, z. s.",
+        "address": "Havlova 1363, Nová Paka, 509 01",
+        "phone": "602355012.0",
+        "email": "pacesny@ad-as.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2230307,
+          50.0016037
+        ]
+      },
+      "properties": {
+        "name": "Spartak Choceň, oddíl Zimního a dálkového plavání z.s.",
+        "address": "M. Alše 1603, Choceň, 565 01",
+        "phone": "605008670.0",
+        "email": "jirkasejna@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9036811,
+          49.8411906
+        ]
+      },
+      "properties": {
+        "name": "TJ Spartak Hořovice, z.s.",
+        "address": "Ke Stadionu 1385/1, Hořovice, 268 01",
+        "phone": "",
+        "email": "ekl.tom83@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2769416,
+          49.9469003
+        ]
+      },
+      "properties": {
+        "name": "TJ SPARTA Kutná Hora, z.s.",
+        "address": "Čáslavská 198, Kutná Hora, 284 01",
+        "phone": "",
+        "email": "Spkh@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2955898,
+          49.855368
+        ]
+      },
+      "properties": {
+        "name": "SPORT MEXIKO z.s.",
+        "address": "Hladnovská 259/128, Ostrava, 71200",
+        "phone": "",
+        "email": "bazen.mexiko@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4539078,
+          49.45733629999999
+        ]
+      },
+      "properties": {
+        "name": "TJ SPARTAK PŘEROV, spolek",
+        "address": "Bezručova 770/4, Přerov, 750 02",
+        "phone": "607645266.0",
+        "email": "camie@volny.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5142897,
+          49.22822
+        ]
+      },
+      "properties": {
+        "name": "Sportoviště města Sušice, příspěvková organizace",
+        "address": "Na Hrázi 270, Sušice, 342 00",
+        "phone": "",
+        "email": "budmara@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8970329,
+          50.5680769
+        ]
+      },
+      "properties": {
+        "name": "SPARTAK TRUTNOV, z.s.",
+        "address": "Skřivánčí 770, Trutnov, 54101",
+        "phone": "736641434.0",
+        "email": "info@spartaktrutnov.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8933704,
+          49.22403629999999
+        ]
+      },
+      "properties": {
+        "name": "Tělovýchovná jednota Spartak Třebíč, spolek",
+        "address": "Manž. Curieových 1112, Třebíč, 67401",
+        "phone": "603484769.0",
+        "email": "zdenek.dolezal@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6409918,
+          49.0277666
+        ]
+      },
+      "properties": {
+        "name": "TJ Spartak Uherský Brod, z.s.",
+        "address": "U Stadionu 2295, Uherský Brod, 688 01",
+        "phone": "",
+        "email": "spub@centrum.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5581134,
+          50.95654769999999
+        ]
+      },
+      "properties": {
+        "name": "Sportovní plavecký klub Rumburk, z.s.",
+        "address": "Nerudova 837/20, Rumburk, 40801",
+        "phone": "776740708.0",
+        "email": "spkrumburk@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6269473,
+          49.2354517
+        ]
+      },
+      "properties": {
+        "name": "SPORT performance, z. s.",
+        "address": "Dusíkova 910/23, Brno, 63800",
+        "phone": "",
+        "email": "vitekrostislav@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8126645,
+          50.21146239999999
+        ]
+      },
+      "properties": {
+        "name": "SPORTSTYL Hradec Králové, z.s.",
+        "address": "Habrmanova 192/2, Hradec Králové, 50002",
+        "phone": "774103284.0",
+        "email": "bergman@creatocz.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4253274,
+          50.06296039999999
+        ]
+      },
+      "properties": {
+        "name": "Swimmpower Prague, z.s.",
+        "address": "Krokova 1700/8, Praha, 128 00",
+        "phone": "",
+        "email": "mpowerswimming@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2839329,
+          49.59372700000001
+        ]
+      },
+      "properties": {
+        "name": "TJ Hodolany, z.s.",
+        "address": "Farského 376/14, Olomouc, 77900",
+        "phone": "606713212.0",
+        "email": "milospac@email.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5034233,
+          50.6086797
+        ]
+      },
+      "properties": {
+        "name": "Sportovní klub NIKÉ Jilemnice z.s.",
+        "address": "Jana Harracha 97, Jilemnice, 514 01",
+        "phone": "",
+        "email": "sknikejilemnice@email.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2864143,
+          49.3978619
+        ]
+      },
+      "properties": {
+        "name": "Tělovýchovná jednota Klatovy, z.s.",
+        "address": "Voříškova 715, Klatovy, 339 01",
+        "phone": "",
+        "email": "slajs@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1419912,
+          49.4561575
+        ]
+      },
+      "properties": {
+        "name": "TJ Rožnov pod Radhoštěm, spolek",
+        "address": "Sokolská 497, Rožnov pod Radhoštěm, 756 61",
+        "phone": "",
+        "email": "zdenek.kaminski@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6652926,
+          49.419231
+        ]
+      },
+      "properties": {
+        "name": "TJ Tábor, z.s.",
+        "address": "Kvapilova 2500, Tábor, 390 03",
+        "phone": "",
+        "email": "tjta@czechswimming.cz",
+        "web": "www.tjta.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9856797,
+          49.4698564
+        ]
+      },
+      "properties": {
+        "name": "Tělovýchovná jednota Valašské Meziříčí, spolek",
+        "address": "Žerotínova 736, Valašské Meziříčí, 75701",
+        "phone": "",
+        "email": "arnostj@volny.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0640253,
+          48.84352320000001
+        ]
+      },
+      "properties": {
+        "name": "TJ plavání Znojmo, z.s.",
+        "address": "Holandská 2716/5, Znojmo, 67181",
+        "phone": "",
+        "email": "znojemskeplavani@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9778015,
+          49.95596
+        ]
+      },
+      "properties": {
+        "name": "TJ Šumperk, z.s.",
+        "address": "Žerotínova 1691/55, Šumperk, 787 01",
+        "phone": "",
+        "email": "eliska0svobodova@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6246265,
+          49.2231373
+        ]
+      },
+      "properties": {
+        "name": "TJ TESLA BRNO z.s.",
+        "address": "Halasovo náměstí 826/7, Brno, 638 00",
+        "phone": "",
+        "email": "mirka.lungova@czechswimming.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6685778,
+          49.6697518
+        ]
+      },
+      "properties": {
+        "name": "Tělovýchovná jednota Třineckých železáren, spolek",
+        "address": "Tyršova 863, Třinec, 73961",
+        "phone": "",
+        "email": "ivo.konvicka@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4318385,
+          50.06697990000001
+        ]
+      },
+      "properties": {
+        "name": "Univerzitní sportovní klub Praha, spolek",
+        "address": "Na Folimance 2490/2, Praha, 120 00",
+        "phone": "",
+        "email": "petra.venturova@czechswimming.cz",
+        "web": "www.uskplavani.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5857817,
+          49.1985233
+        ]
+      },
+      "properties": {
+        "name": "Vysokoškolský sportovní klub Univerzita Brno",
+        "address": "Heinrichova 894/24, Brno, 602 00",
+        "phone": "",
+        "email": "daniela.hanusova@eon.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2500847,
+          49.60282580000001
+        ]
+      },
+      "properties": {
+        "name": "SKUP Olomouc, z.s.",
+        "address": "U sportovní haly 38/2, Olomouc, 77900",
+        "phone": "",
+        "email": "dub.skup@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4499203,
+          50.066799
+        ]
+      },
+      "properties": {
+        "name": "V Aquatics Swimming Academy, z.s.",
+        "address": "Sámova 12/1574, Praha, 101 00",
+        "phone": "",
+        "email": "manager@vaquatics.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4472809,
+          50.0458659
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub Vodní stavby Praha, z. s.",
+        "address": "Budějovická 864/56, Praha, 14000",
+        "phone": "",
+        "email": "vosp@plavecky.club",
+        "web": "https://vosp.plavecky.club/",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5060245,
+          50.14141009999999
+        ]
+      },
+      "properties": {
+        "name": "Waters' Sports School, z.ú.",
+        "address": "Malkovského 598, Praha, 19900",
+        "phone": "",
+        "email": "k8.vodickova@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7188666,
+          49.2698298
+        ]
+      },
+      "properties": {
+        "name": "Zlínský plavecký klub, z.s.",
+        "address": "Zámecká 333, Zlín, 763 14",
+        "phone": "775008308.0",
+        "email": "zpk@zlinskyplaveckyklub.cz",
+        "web": "www.zlinskyplaveckyklub.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6680594,
+          49.2208362
+        ]
+      },
+      "properties": {
+        "name": "PLAVECKÝ KLUB ZLÍN, z.s.",
+        "address": "Hradská 854 854, Zlín, 76001",
+        "phone": "731133036.0",
+        "email": "",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.828739,
+          50.2143696
+        ]
+      },
+      "properties": {
+        "name": "Sportovní club Zéva Hradec Králové, z.s.",
+        "address": "Eliščino nábřeží 842/3, Hradec Králové, 500 03",
+        "phone": "",
+        "email": "kamka.vesela@gmail.com",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3028815,
+          50.064045
+        ]
+      },
+      "properties": {
+        "name": "Zažít Řepy, z. s.",
+        "address": "Vondroušova 1217/32, Praha, 16300",
+        "phone": "",
+        "email": "dirbak@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0149711,
+          50.66587879999999
+        ]
+      },
+      "properties": {
+        "name": "Ústecká akademie plaveckých sportů z.s.",
+        "address": "Klíšská 892/90a, Ústí nad Labem, 40001",
+        "phone": "602450366.0",
+        "email": "mpku@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3089453,
+          48.8169408
+        ]
+      },
+      "properties": {
+        "name": "Českokrumlovský plavecký klub",
+        "address": "Fialková 225, Český Krumlov, 381 01",
+        "phone": "",
+        "email": "f.skricil@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4574846,
+          50.079485
+        ]
+      },
+      "properties": {
+        "name": "Česká otužilecká unie",
+        "address": "Lucemburská 1579/33, Praha, 130 00",
+        "phone": "776601610.0",
+        "email": "vlkomarek@volny.cz",
+        "web": "www.otuzilci.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5075337,
+          48.9831002
+        ]
+      },
+      "properties": {
+        "name": "Plavecký klub - ŠIK ČB, z.s.",
+        "address": "Rudolfovská tř. 634, České Budějovice, 370 01",
+        "phone": "",
+        "email": "cirhan.r@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3728533,
+          50.0672249
+        ]
+      },
+      "properties": {
+        "name": "Plavecký Klub Žraloci Cheb  z.s.",
+        "address": "Na Hradčanech 578/30, Cheb, 350 02",
+        "phone": "",
+        "email": "zralocicheb@gmail.com",
+        "web": "www.pkzrch.cz",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4999975,
+          50.4950358
+        ]
+      },
+      "properties": {
+        "name": "Žralok Nová Paka, z. s.",
+        "address": "Havlova 1611, Nová Paka, 50901",
+        "phone": "",
+        "email": "zraloknp@seznam.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9405936,
+          49.5697791
+        ]
+      },
+      "properties": {
+        "name": "TJ Žďár nad Sázavou z.s.",
+        "address": "Jungmannova 1495/8, Žďár nad Sázavou, 591 01",
+        "phone": "",
+        "email": "plavcizr@plavcizr.cz",
+        "web": "",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    }
+  ]
+}
